@@ -1,4 +1,3 @@
-data/ds_salaries.csv
-data/results.csv
-data/schema.csv
-data/linkedin/
+data/raw/ds_salaries.csv
+data/raw/results.csv
+data/raw/schema.csv
