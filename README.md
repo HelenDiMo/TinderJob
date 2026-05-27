@@ -77,20 +77,53 @@ Para garantizar la entrega el 03/06 sin cuellos de botella, el equipo se ha orga
 | **Luis El Allali** | Desarrollador | Scraper Engineer | [@luiselallali18-hub](https://github.com/luiselallali18-hub) |
 
 ## 🛠️ 5. Requisitos e Instalación
+
 (Sección en desarrollo a medida que los ingenieros entreguen el código)
 
 Para ejecutar este proyecto de forma local, clona este repositorio e instala las dependencias:
 
-```
+```bash
 git clone https://github.com/HelenDiMo/TinderJob.git
 cd TinderJob
 ```
-
+---
 # [Aquí añadiremos cómo arrancar el front y el scraper]
+---
+## 6. 🕷️ Extracción de Datos (Web Scraping)
 
-## 📊 6. Hallazgos Clave y Dashboard
+El proyecto incluye un módulo de web scraping automatizado diseñado para recopilar ofertas de empleo en tiempo real dentro del sector tecnológico.
+
+### 🌐 Origen de los Datos
+Los datos se extraen directamente del portal de empleo **Tecnoempleo**, barriendo un abanico de **24 perfiles profesionales clave** del sector TIC (como *Data Scientist, Data Analyst, Cloud, DevOps, Ciberseguridad, Desarrollador Web Full-Stack*, entre otros).
+
+### 🛠️ Tecnologías y Librerías Utilizadas
+* **`requests`**: Gestión de peticiones HTTP con configuración de `User-Agent` personalizado para evitar bloqueos.
+* **`BeautifulSoup` (bs4)**: Parseo del árbol HTML y extracción quirúrgica de los elementos de las ofertas de empleo.
+* **`pandas`**: Procesamiento, limpieza (eliminación de duplicados exactos) y estructuración de los datos recolectados.
+* **`time`**: Control de pausas (`rate-limiting`) de 1.5 segundos entre peticiones para garantizar un scraping ético y respetuoso con el servidor.
+
+### 📊 Información Recolectada
+Por cada oferta de trabajo identificada, el script extrae los siguientes campos estructurados:
+* **Título:** Nombre de la vacante.
+* **Empresa:** Compañía que publica la oferta.
+* **Ubicación:** Localización geográfica del puesto.
+* **Salario:** Banda salarial ofertada (si está disponible).
+* **Tipo de Contrato:** Modalidad contractual (jornada, remoto, etc.).
+* **Skills:** Tecnologías y etiquetas requeridas (etiquetas secundarias).
+* **Búsqueda:** El término clave con el que se localizó la oferta.
+
+### 🚀 Modo de Uso y Almacenamiento
+
+El script recorre un máximo de 5 páginas por cada término de búsqueda y almacena los datos de manera local.
+
+1. **Ejecución del Scraper:**
+   ```bash
+   python scraper.py
+   ```
+
+## 📊 7. Hallazgos Clave y Dashboard
 (Aquí insertaremos las capturas de los 6 gráficos y el enlace a la aplicación web cuando estén listos)
 
-## ⚖️ 7. Extracto del Informe de Sesgos (Ética en los Datos)
+## ⚖️ 8. Extracto del Informe de Sesgos (Ética en los Datos)
 (Sección teórica preliminar)
 La encuesta de Stack Overflow cuenta con sesgos demográficos conocidos (subrepresentación de género y sesgo de juventud). Nuestro análisis evalúa activamente cómo la falta de datos salariales por ocultación voluntaria (Missing Not At Random - MNAR) altera la media del mercado, advirtiendo a la consultora sobre los riesgos de entrenar algoritmos de selección automatizada de personal con estos datos.
