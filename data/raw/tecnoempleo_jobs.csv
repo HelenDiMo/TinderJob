@@ -1,8 +1,8 @@
 ﻿titulo,empresa,ubicacion,salario,tipo_contrato,skills,busqueda
 RWE Data Scientist,Sanofi,,,Actualizada,,data-scientist
 Analista Programador/Data Scientist/BI,Invoin,,,Actualizada,,data-scientist
-Big Data Developer (Fullstack - Backend Focus),Talan,,,Big Data,,data-scientist
 Data & AI Data Solutions Architect,GFR Technologies SE,,,data,,data-scientist
+Big Data Developer (Fullstack - Backend Focus),Talan,,,Big Data,,data-scientist
 Senior Data & AI Consultant,EPAM,,,Data,,data-scientist
 Data Engineer especialista en Databricks,Deloitte,,,Databricks,,data-scientist
 Data Engineer / Analytics Engineer,Michael Page,,,Azure Data Factory,,data-scientist
@@ -16,19 +16,19 @@ Senior AI Engineer,EPAM,,,Actualizada,,data-scientist
 Senior Information Architect - Commercial IT,AstraZeneca,,,Data Governance,,data-scientist
 Líder trazabilidad y calidad datos,Cajamar Tecnología,,,AZURE,,data-scientist
 Lead AI Engineer,GFR Technologies SE,,,Python,,data-scientist
-Big Data Developer,Talan,,,Actualizada,,data-scientist
 Principal Data Scientist (Machine Learning & AI),Sopra Steria,,,Actualizada,,data-scientist
+Big Data Developer,Talan,,,Actualizada,,data-scientist
 Senior Data Engineer,EPAM,,,Python,,data-scientist
 Data Scientist,Sanofi,,,PySpark,,data-scientist
 Data Scientist,HAYS,,,Python,,data-scientist
 Data Scientist / Data Machine Learning,UST,,,machine learning,,data-scientist
 Junior Data Analyst (Quicksight) - Hibrido Madrid,Second Window,,,Amazon Quicksight,,data-scientist
 Data Scientist (end client company),Michael Page,,,Power BI,,data-scientist
-Junior Data Scientist,GFR Technologies SE,,,Python,,data-scientist
 Data Scientist sector financiero,Page Personnel,,,Python,,data-scientist
+Junior Data Scientist,GFR Technologies SE,,,Python,,data-scientist
 Data Engineer (AI & Data),CMV Consultores,,,SQL,,data-scientist
-Data Science Manager for Supply Chain,Accenture,,,Python,,data-scientist
 Junior Data Scientist,Talan,,,Python,,data-scientist
+Data Science Manager for Supply Chain,Accenture,,,Python,,data-scientist
 Data Engineer especialista en MS Fabric,Deloitte,,,Fabric,,data-scientist
 Cloud Data Engineer AWS/Azure,Deloitte,,,AWS,,data-scientist
 Data Scientist - Remoto,Michael Page,,,Machine Learning,,data-scientist
@@ -44,29 +44,29 @@ Senior Data Engineer - Palantir Foundry,EPAM,,,Palantir Foundry,,data-scientist
 Data Scientist,Veepee,,,Python,,data-scientist
 Senior Data Scientist,Veepee,,,Python,,data-scientist
 Senior Data Scientist,Wallapop,,,ETL,,data-scientist
-Senior AI Engineer with Italian,EY,,,Actualizada,,data-scientist
-Senior Snowflake Engineer - Remote,UST,,,Actualizada,,data-scientist
 Junior Support Engineer (Python/React),Talan,,,Actualizada,,data-scientist
 Software Developer - Murex Integration,Talan,,,Actualizada,,data-scientist
+Senior AI Engineer with Italian,EY,,,Actualizada,,data-scientist
+Senior Snowflake Engineer - Remote,UST,,,Actualizada,,data-scientist
 Senior Backend developer,Talan,,,Actualizada,,data-scientist
 "Analista Programador IA, BI",Incoming Domain,,,Actualizada,,data-scientist
 Programador/a Python,Arelance,,,python,,data-scientist
+AI Senior Specialist (m/f/d),BASF,,,AI,,data-scientist
 DevOps Engineer,Atos,,,CI/CD,,data-scientist
+DevOps/Platform Engineer,Atos,,,CI/CD,,data-scientist
+Cyber Security Framework Manager (m/f/d),BASF,,,ciberseguridad,,data-scientist
 Junior Support Engineer (.NET/React),Talan,,,.net,,data-scientist
 Machine Learning Engineer,Atos,,,Python,,data-scientist
-Cyber Security Framework Manager (m/f/d),BASF,,,ciberseguridad,,data-scientist
-DevOps/Platform Engineer,Atos,,,CI/CD,,data-scientist
-AI Senior Specialist (m/f/d),BASF,,,AI,,data-scientist
+SSR Power Apps + Python Developer,Talan,,,Python,,data-scientist
 Senior Full Stack Developer,Talan,,,java,,data-scientist
 Senior Threat Hunter,UST,,,threat intelligence,,data-scientist
-SSR Power Apps + Python Developer,Talan,,,Python,,data-scientist
 AI Governance Engineer,GFR Technologies SE,,,Inteligencia Artificial,,data-scientist
 Ingeniero/a de Software .NET,GMV,,,.NET,,data-scientist
-AI / Agentic Engineer - Senior,EY,,,Python,,data-scientist
 AI Specialist - Task Automation,Santander,,,GenAI,,data-scientist
-Senior Nodejs/Angular - Full Stack Developer,Talan,,,angular,,data-scientist
 Mid-level Backend Spark developer,Talan,,,Spark,,data-scientist
+AI / Agentic Engineer - Senior,EY,,,Python,,data-scientist
 GenAI Engineer,EY,,,GenAI,,data-scientist
+Senior Nodejs/Angular - Full Stack Developer,Talan,,,angular,,data-scientist
 Artificial Intelligence Lead - Insurance Domain,Santander,,,Python,,data-scientist
 Senior ML/AI Engineer,WIZELINE,,,Machine Learning,,data-scientist
 Beca Análisis de Datos,BNP Paribas,,,Excel,,data-scientist
@@ -92,9 +92,9 @@ Power BI Analyst / BI Developer,Digital Talent Agency,,,power bi,,data-analyst
 Senior BI Analyst,Michael Page,,,Power BI,,data-analyst
 Senior Data Analyst - 6 months,Michael Page,,,Nueva,,data-analyst
 Data Security Analyst Specialist,BASF,,,Actualizada,,data-analyst
-"Data Analyst, EMEA",Criteo,,,Python,,data-analyst
 "Data Analyst Power Automate, Power BI",UST,,,sql server,,data-analyst
 Data Analyst - Business Performance Analytics,Criteo,,,SQL,,data-analyst
+"Data Analyst, EMEA",Criteo,,,Python,,data-analyst
 Data Analyst  - Gran proyecto,Michael Page,,,Power BI,,data-analyst
 Data Analyst (Sector Automocion),Michael Page,,,Power BI,,data-analyst
 Data Analyst - Credit Risk & Underwriting,Ebury,,,SQL,,data-analyst
@@ -114,8 +114,8 @@ Power BI Analist and Developers - DAX,Michael Page,,,Power BI,,data-analyst
 Model Validation Quantitative Analyst,Julius Baer,,,Python,,data-analyst
 RPA Developer,Page Personnel,,,RPA,,data-analyst
 SAP Finance FI/CO Senior Consultant,EY,,,SAP CO,,data-analyst
-Cybersecurity and IT Risk Engineer,BNP Paribas,,,OWASP,,data-analyst
 Cybersecurity and IT Risk Engineer - Vulnerability,BNP Paribas,,,OWASP,,data-analyst
+Cybersecurity and IT Risk Engineer,BNP Paribas,,,OWASP,,data-analyst
 Frontend Developer React - GraphQL,HAYS,,,react,,data-analyst
 Technical Business Analyst (T24/Temenos),UST,,,Temenos,,data-analyst
 IT Governance Analyst,HAYS,,,TOGAF,,data-analyst
@@ -127,12 +127,12 @@ IT Business Analyst,Sopra Steria,,,scrum,,data-analyst
 Senior Data Engineer (Azure + Databricks),GlobalSysInfo,,,Urgente,,data-engineer
 Senior Data Engineer - ADA / AWS / Control-M,GlobalSysInfo,,,Urgente,,data-engineer
 Data Engineer / Backend Developer,CAS TRAINING,,,Actualizada,,data-engineer
-Senior Data Engineer / Technical Lead,Santander,,,Actualizada,,data-engineer
 Senior Data Platform Engineer,Ebury,,,Actualizada,,data-engineer
+Senior Data Engineer / Technical Lead,Santander,,,Actualizada,,data-engineer
 Data Engineer,Sopra Steria,,,Actualizada,,data-engineer
 Data Engineer (h/m),Michael Page,,,ETL,,data-engineer
-Data Engineer - Snowflake,Aubay,,,SQL,,data-engineer
 Data Engineer,Page Personnel,,,SQL,,data-engineer
+Data Engineer - Snowflake,Aubay,,,SQL,,data-engineer
 Senior Data Engineer (Python),UST,,,python,,data-engineer
 Senior Data Engineer,UST,,,Dataiku,,data-engineer
 Data Engineer - Data pipelines,Arelance,,,GitHub Actions,,data-engineer
@@ -147,12 +147,13 @@ AI Systems Engineer (LLM & RAG Optimization),Airbus,,,LLM,,data-engineer
 Sr Software Development Engineer,Amazon,,,Java,,data-engineer
 AI Engineer (Cloud Technologies),Deloitte,,,Python,,data-engineer
 Staff AI Engineer - Notebooks,Datadog,,,AI,,data-engineer
-Data Engineer,Ebury,,,Actualizada,,data-engineer
+DATA ENGINEER,CAS TRAINING,,,Nueva,,data-engineer
 Data Engineer con Python e Inglés C1,sg tech,,,Actualizada,,data-engineer
+Data Engineer,Ebury,,,Actualizada,,data-engineer
 Data Engineer,Sanofi,,,Actualizada,,data-engineer
 Consultor/a Data Engineer,EY,,,Actualizada,,data-engineer
-Data Engineer,Plexus,,,Actualizada,,data-engineer
 Senior Software Engineer - Data,Factorial,,,Actualizada,,data-engineer
+Data Engineer,Plexus,,,Actualizada,,data-engineer
 Data Engineer - ETL Development,Serem,,,spark,,data-engineer
 Senior Data Engineer,Page Personnel,,,Python,,data-engineer
 Data Engineer,Baoss,,,Python,,data-engineer
@@ -180,8 +181,8 @@ Data Engineer Airflow,Plexus,,,Airflow,,data-engineer
 Data Engineer + Backend,Plexus,,,Java,,data-engineer
 Data Engineer (AWS),Plexus,,,Python,,data-engineer
 Data Engineer Airflow + DBT + SQL,Plexus,,,Airflow,,data-engineer
-Data & AI Strategy Knowledge Graph Engineer,Accenture,,,Python,,data-engineer
 Junior Data Engineer - Analitycs,Michael Page,,,ETL,,data-engineer
+Data & AI Strategy Knowledge Graph Engineer,Accenture,,,Python,,data-engineer
 Senior Data Engineer - DBT,Accenture,,,DBT,,data-engineer
 Data Engineer AWS Data Services,UST,,,Scala,,data-engineer
 "Data Engineer Internship - Esp, Amazon University",Amazon,,,Java,,data-engineer
@@ -192,23 +193,23 @@ Data Science/MLOps Engineer,Accenture,,,Python,,data-engineer
 QA Software tester Engineer,Merkle,,,Urgente,,data-engineer
 Senior Vulnerability Engineer,Michael Page,,,Nueva,,data-engineer
 DevOps Platform Engineer,Accenture,,,Actualizada,,data-engineer
+Tactical Communications Lab Test Engineer,Airbus,,,Actualizada,,data-engineer
 Junior Software Engineer,Ebury,,,Actualizada,,data-engineer
 Applied AI Engineer,Santander,,,Actualizada,,data-engineer
-Tactical Communications Lab Test Engineer,Airbus,,,Actualizada,,data-engineer
 Ingeniero/a Senior L3 Azure & Microsoft 365 (M365),Serem,,,Actualizada,,data-engineer
-LLM Full Stack Engineer,Accenture,,,Actualizada,,data-engineer
-Software Engineer (Python / Angular),EY,,,Actualizada,,data-engineer
-Senior Java Developer,Talan,,,Actualizada,,data-engineer
-Software Engineer Java | Teletrabajo,knowmad mood,,,Actualizada,,data-engineer
 Software Engineer (Node.js),Michael Page,,,Actualizada,,data-engineer
+Senior Java Developer,Talan,,,Actualizada,,data-engineer
+Software Engineer (Python / Angular),EY,,,Actualizada,,data-engineer
+Software Engineer Java | Teletrabajo,knowmad mood,,,Actualizada,,data-engineer
+LLM Full Stack Engineer,Accenture,,,Actualizada,,data-engineer
 AI / LLM Engineer,ZENTRIAN,,,Python,,data-engineer
 AI Platform Engineer,Airbus,,,Kubernetes,,data-engineer
-Senior Software Engineer - Linux Kernel / GPU,Datadog,,,Linux,,data-engineer
-Senior AI Test Automation Engineer,UST,,,python,,data-engineer
-Senior Software Engineer (Ruby/RoR),Workato,,,Ruby,,data-engineer
-"Machine Learning Engineer, Amazon Tablets",Amazon,,,Machine Learning,,data-engineer
-Mission Communications (MCOMS) Lab Test Engineer,Airbus,,,DOORS,,data-engineer
 Sr. Software Development Engineer,Amazon,,,Java,,data-engineer
+Senior Software Engineer (Ruby/RoR),Workato,,,Ruby,,data-engineer
+Mission Communications (MCOMS) Lab Test Engineer,Airbus,,,DOORS,,data-engineer
+Senior AI Test Automation Engineer,UST,,,python,,data-engineer
+Senior Software Engineer - Linux Kernel / GPU,Datadog,,,Linux,,data-engineer
+"Machine Learning Engineer, Amazon Tablets",Amazon,,,Machine Learning,,data-engineer
 Junior Full Stack Innovation Engineer,Factorial,,,Next.js,,data-engineer
 "Software Development Engineer, RBKS DSO EU",Amazon,,,microservices,,data-engineer
 Senior Infrastructure Engineer,Workato,,,Go,,data-engineer
@@ -216,25 +217,24 @@ Senior Software Engineer (GOlang),Workato,,,GOlang,,data-engineer
 Senior Software Engineer for EuroDrone Offboard,Airbus,,,Python,,data-engineer
 Discover II 2026-2027 / GenAI Engineer Internship,Airbus,,,LLM,,data-engineer
 Windows Operations Engineer (L2),Michael Page,,,Windows Server,,data-engineer
-Windows Operations Engineer (L3),Michael Page,,,Windows Server,,data-engineer
 Infrastructure and Backup Engineer (L4),Michael Page,,,Azure,,data-engineer
+Windows Operations Engineer (L3),Michael Page,,,Windows Server,,data-engineer
 Lab Test Means Integration Engineer,Airbus,,,Autocad,,data-engineer
-Payload operations engineer,Page Personnel,,,Git,,data-engineer
 IT Applications Support Engineer,Michael Page,,,Windows Server,,data-engineer
+Payload operations engineer,Page Personnel,,,Git,,data-engineer
 Software Engineer Team Lead - Tech,cdmon,,,PHP,,data-engineer
-Software Engineer Python - Lynx,Santander,,,Python,,data-engineer
-Airbus UpNext Spain - UAS Flight Test Engineer,Airbus,,,flight testing,,data-engineer
 Senior Test Automation Engineer,UST,,,Python,,data-engineer
+Airbus UpNext Spain - UAS Flight Test Engineer,Airbus,,,flight testing,,data-engineer
+Software Engineer Python - Lynx,Santander,,,Python,,data-engineer
 3rd Line Support Engineer / Technical Support,UST,,,vb.net,,data-engineer
-AI First GenAI Engineer (.NET/Azure),UST,,,.net,,data-engineer
-Cloud Security Automation engineer,Santander,,,Python,,data-engineer
 "Sr. Software Dev Engineer, Books Search",Amazon,,,Java,,data-engineer
+Cloud Security Automation engineer,Santander,,,Python,,data-engineer
+AI First GenAI Engineer (.NET/Azure),UST,,,.net,,data-engineer
 QA Engineer,mscope,,,selenium,,data-engineer
 Cloud Engineer (L3),Michael Page,,,Azure,,data-engineer
 Application Support Engineer (Salesforce),Michael Page,,,Salesforce,,data-engineer
-Senior Frontend Engineer,FeverUp,,,python,,data-engineer
 AI Product Engineer - Operations Domain,Factorial,,,LLM,,data-engineer
-Google Cloud Platform Devops Engineer,Santander,,,Docker,,data-engineer
+Senior Frontend Engineer,FeverUp,,,python,,data-engineer
 Machine Learning Scientist,Amazon,,,Actualizada,,machine-learning
 INTERNSHIP Machine Learning for Stress Analyses,Airbus,,,Python,,machine-learning
 Machine Learning Scientist / Applied Scientist,Amazon,,,Python,,machine-learning
@@ -242,8 +242,8 @@ Senior Machine Learning Engineer,Accenture,,,Machine Learning,,machine-learning
 "Director, AI Research",AstraZeneca,,,Actualizada,,machine-learning
 Edge AI & Computer Vision Electrical Engineer,Defence Sector Engineering Company,,,Actualizada,,machine-learning
 Senior AI & ML Engineer / Generative AI,Accenture,,,Actualizada,,machine-learning
-IA Developer,HAYS,,,Machine Learning,,machine-learning
 Líder Técnico de IA Segmento Terrestre,GMV,,,Inteligencia Artificial,,machine-learning
+IA Developer,HAYS,,,Machine Learning,,machine-learning
 "Digital, Data & Tech Path - Spain Graduate Program",Sanofi,,,AI,,machine-learning
 Project Manager AI,Baoss,,,Gen AI,,machine-learning
 Responsable de negocio de dato (h/m),Michael Page,,,Power BI,,machine-learning
@@ -261,9 +261,9 @@ Enterprise Architect Data,Accenture,,,Actualizada,,machine-learning
 Analista - Programador/a,Alcampo,,,Actualizada,,machine-learning
 Ingeniero/a de Aplicaciones de IA,sg tech,,,Actualizada,,machine-learning
 Ingeniero/a Inteligencia Artificial,Arelance,,,python,,machine-learning
+Desarrollador Flutter y Kotlin,Devoteam,,,Kotlin,,machine-learning
 Data Architect,Sopra Steria,,,python,,machine-learning
 Consultor/a Senior Espacios de Datos Salud,Atos,,,HL7,,machine-learning
-Desarrollador Flutter y Kotlin,Devoteam,,,Kotlin,,machine-learning
 Ingeniero IA,Page Personnel,,,TensorFlow,,machine-learning
 Desarrollador/a de Inteligencia Artificial,Aubay,,,Python,,machine-learning
 Ingeniero/a de Datos - Azure Databricks,CAS TRAINING,,,python,,machine-learning
@@ -272,6 +272,7 @@ Arquitecto/a de Datos (Sector Bancario),Michael Page,,,Snowflake,,machine-learni
 IA Senior Engineer,Michael Page,,,Java,,machine-learning
 Computer Vision Engineer (IA),Page Personnel,,,Python,,machine-learning
 Senior Fire Scientist (Python + IA),Michael Page,,,Python,,machine-learning
+Google Cloud Platform Devops Engineer,Santander,,,Docker,,machine-learning
 Jefe de Proyecto - Plataforma Cognitiva,Cajamar Tecnología,,,PMP,,machine-learning
 Full Stack AI Engineer,UST,,,Python,,machine-learning
 Data & Cloud Architect - Microsoft Fabric,Akkodis,,,Microsoft Fabric,,machine-learning
@@ -292,8 +293,8 @@ Jefe de Proyecto (Java),Devoteam,,,Java,,machine-learning
 Enterprise Architect - Data,Accenture,,,data,,machine-learning
 Project Manager (h/m),Michael Page,,,java,,machine-learning
 Desarrollador Golang + GCP,Devoteam,,,Golang,,machine-learning
-Ingeniero/a de software,GMV,,,Java,,machine-learning
 Ingeniero/a Junior de software,GMV,,,Java,,machine-learning
+Ingeniero/a de software,GMV,,,Java,,machine-learning
 Arquitecto/a Big Data,Randstad  Technologies Centro,,,Big Data,,machine-learning
 Programador/a Business Central,Michael Page,,,Business Central,,business-intelligence
 Consultor/a Funcional Business Central,LÃBERIT,,,Dynamics 365,,business-intelligence
@@ -311,65 +312,66 @@ Frontend Developer (HTML/CSS) - Diseño Responsive,knowmad mood,,,Actualizada,,b
 Analista Hub Digitalización/Diseño de procesos,Cajamar Tecnología,,,Actualizada,,business-intelligence
 Jefe de Proyecto de Banca Digital,Cajamar Tecnología,,,Actualizada,,business-intelligence
 Personal Técnico Proxy PO,Cajamar Tecnología,,,Actualizada,,business-intelligence
-BA Servicenow,Michael Page,,,Actualizada,,business-intelligence
 Ingeniero de Ciberseguridad - SDS,Santander,,,Actualizada,,business-intelligence
 Project Manager,HAYS,,,Actualizada,,business-intelligence
+BA Servicenow,Michael Page,,,Actualizada,,business-intelligence
 Mobile Developer (Android & iOS),Page Personnel,,,Android,,business-intelligence
 QA Manager and Automation Lead,UST,,,quality assurance,,business-intelligence
 Analista Funcional - Negocio y Rentabilidad,Cajamar Tecnología,,,Excel,,business-intelligence
 Jefe de Proyecto - ETL y Arquitecturas Cloud,Cajamar Tecnología,,,DevOps,,business-intelligence
 Técnico de Datos - ETL y Arquitecturas Cloud,Cajamar Tecnología,,,ETL,,business-intelligence
-Coordinador/a de Servicios (Ciberseguridad),Aubay,,,Ciberseguridad,,business-intelligence
 Freelance POWER BI - Remoto - 10h/semana,Michael Page,,,Power BI,,business-intelligence
+Coordinador/a de Servicios (Ciberseguridad),Aubay,,,Ciberseguridad,,business-intelligence
 Data Analytics Consultant,Accenture,,,SQL,,business-intelligence
 Consultor/a Financiero,Baoss,,,ERP,,business-intelligence
 Consultor/a de Credit Management,Baoss,,,Power BI,,business-intelligence
 Consultor/a Internacional (Inglés + idiomas),Apeiron Sumus,,,Azure,,business-intelligence
-Técnico de Datos ETL y Arquitecturas Cloud (HUB),Cajamar Tecnología,,,PowerCenter,,business-intelligence
 Analista Funcional - Reporte Regulatorio,Cajamar Tecnología,,,Power BI,,business-intelligence
+Técnico de Datos ETL y Arquitecturas Cloud (HUB),Cajamar Tecnología,,,PowerCenter,,business-intelligence
 Microsoft Dynamics 365 Developer,Serem,,,Dynamics 365,,business-intelligence
 Técnico de Compliance IT y Seguridad,Baoss,,,MAGERIT,,business-intelligence
 Senior Manager of Software Development,Amazon,,,Agile,,business-intelligence
-CRM Manager fluent in English,Page Personnel,,,Salesforce Marketing Cloud,,business-intelligence
 Responsable de Producción - Montaje Final,Michael Page,,,MES,,business-intelligence
+CRM Manager fluent in English,Page Personnel,,,Salesforce Marketing Cloud,,business-intelligence
 Líder Banca Digital,Cajamar Tecnología,,,PMP,,business-intelligence
 Project Control Services Practitioner,CMV Consultores,,,Atlassian,,business-intelligence
 Tecnico Cumplimiento Normativo-Prevención Fraude,Cajamar Tecnología,,,Data Warehouse,,business-intelligence
-CRM Manager fluent in English,Michael Page,,,Salesforce Marketing Cloud,,business-intelligence
 Senior Infrastructure Delivery Manager,EPAM,,,Microsoft 365,,business-intelligence
 Data Management Platform (CDE) Lead/Owner,Axpo Group,,,Autodesk Forma,,business-intelligence
+CRM Manager fluent in English,Michael Page,,,Salesforce Marketing Cloud,,business-intelligence
 Analista datos Sr con discapacidad,Page Personnel,,,SQL server,,business-intelligence
 Técnico de Soporte - Sistemas Logísticos,CBL Informática,,,Windows,,business-intelligence
 Microsoft Dynamics 365 Developer,Page Personnel,,,Dynamics 365,,business-intelligence
 "DBA, Cuadros de Mando y Reporting",Grupo Digital,,,sql,,business-intelligence
-Senior Data Analytics - Snowflake & Power BI,Michael Page,,,Power BI,,business-intelligence
 Analista de Datos para Área RRHH (h/m),Michael Page,,,Power BI,,business-intelligence
+Senior Data Analytics - Snowflake & Power BI,Michael Page,,,Power BI,,business-intelligence
 Técnico/a cau administrador ITSM,Grupo Sermicro,,,ITSM,,business-intelligence
-.Net Developer - Senior - EY GDS Spain - Hybrid,EY,,,.NET,,business-intelligence
-Ingeniero/a de Calidad Senior,Page Personnel,,,calidad,,business-intelligence
 Ingeniero/a de producción,Page Personnel,,,Excel,,business-intelligence
 Ingeniero/a de Producción,Michael Page,,,LEAN,,business-intelligence
+.Net Developer - Senior - EY GDS Spain - Hybrid,EY,,,.NET,,business-intelligence
+Ingeniero/a de Calidad Senior,Page Personnel,,,calidad,,business-intelligence
 Jefe de proyecto HUB Digitalización de Procesos,Cajamar Tecnología,,,Scrum,,business-intelligence
 Data Modeler / Bi Developer,Plexus,,,Python,,business-intelligence
 Ingeniero de Datos - Prevención Fraude,Cajamar Tecnología,,,SQL,,business-intelligence
 Microsoft Dynamics 365 Solutions Architect,Michael Page,,,Dynamics 365,,business-intelligence
 Analista de Datos Junior (Power BI),HAYS,,,Power BI,,business-intelligence
 Analista Java Junior,sg tech,,,java,,business-intelligence
-Product manager inglés avanzado,Page Personnel,,,SAP,,business-intelligence
 PM Transformación Digital Data,Michael Page,,,data governance,,business-intelligence
+Product manager inglés avanzado,Page Personnel,,,SAP,,business-intelligence
 Ingeniero de datos - ETL y Arquitecturas Cloud,Cajamar Tecnología,,,DevOps,,business-intelligence
 Gestor de Proyectos,Michael Page,,,PMP,,business-intelligence
 Técnico de iniciativas Observatorio,Michael Page,,,Inteligencia Artificial,,business-intelligence
-Desarrollador Back-End Java,sg tech,,,Java,,business-intelligence
 Arquitecto/a de Software y datos,GMV,,,Airflow,,business-intelligence
+Desarrollador Back-End Java,sg tech,,,Java,,business-intelligence
 Especialista SOC - Data/Analytics/SIEM,Baoss,,,SIEM,,business-intelligence
 Responsable IT y Transformación Digital,Michael Page,,,Windows,,business-intelligence
 RPA Junior Developer with Italian,EY,,,RPA,,business-intelligence
 IT & Data Audit & Assurance,Deloitte,,,Python,,business-intelligence
-IT&Data Audit&Assurance,Deloitte,,,Python,,business-intelligence
 IT&Data Audit&Assurance | Septiembre 2026,Deloitte,,,Python,,business-intelligence
+IT&Data Audit&Assurance,Deloitte,,,Python,,business-intelligence
 Consultor/a SAP Módulo MM,The Adecco Group,,,SAP,,business-intelligence
 Senior AI Consultant - Python / PySpark / AWS,GlobalSysInfo,,,Urgente,,programador
+Desarrollador/a Senior Oracle APEX,Grupo Digital,,,Nueva,,programador
 Front-End Architect,Plexus,,,Nueva,,programador
 Senior Java AWS Developer,Plexus,,,Nueva,,programador
 Desarrollador Fullstack,Randstad ES,,,Nueva,,programador
@@ -379,6 +381,14 @@ Desarrollador/a Apigee,Sopra Steria,,,Nueva,,programador
 Java + React +IA,knowmad mood,,,Nueva,,programador
 Fullstack PHP (Laravel) - Vue,knowmad mood,,,Nueva,,programador
 Junior Front end Developer (React/Typescript),Talan,,,Nueva,,programador
+Profesional Backend Java Microservicios (Remoto),Serem,,,Actualizada,,programador
+AI Engineer (3D Modeling & Computer Vision),Arelance,,,Actualizada,,programador
+Desarrollador/a Fullstack Java JSF,Digital Talent Agency,,,Actualizada,,programador
+Desarrollador/a Senior Fullstack Java,Digital Talent Agency,,,Actualizada,,programador
+Desarrollador/a REACT NATIVE (INGLÉS ALTO),CAS TRAINING,,,Actualizada,,programador
+Desarrollador/a de Software C++,CMV Consultores,,,Actualizada,,programador
+Salesforce Developer,CMV Consultores,,,Actualizada,,programador
+Programadores Python,Seltime,,,Actualizada,,programador
 Desarrollador/a Python (Automatización),Serem,,,Actualizada,,programador
 Fullstack (Java/Angular),Second Window,,,Actualizada,,programador
 Desarrollador/a Java - Microservicios,Serem,,,Actualizada,,programador
@@ -388,21 +398,15 @@ Backend Developer Java,CMV Consultores,,,Actualizada,,programador
 Oportunidades IT,Social You,,,Actualizada,,programador
 Desarrollador/a RPG Mainframe,CMV Consultores,,,Actualizada,,programador
 Desarrolladores Backend (Node + TypeScript) + IA,PANEL Sistemas Informáticos,,,Actualizada,,programador
-Desarrollador/a Senior Fullstack Java,Digital Talent Agency,,,Actualizada,,programador
 Backend Junior,Social You,,,Actualizada,,programador
-Programadores Python,Seltime,,,Actualizada,,programador
-Desarrollador/a de Software C++,CMV Consultores,,,Actualizada,,programador
 Analista Programador Java Senior,Serem,,,Actualizada,,programador
 Desarrollador Python,Social You,,,Actualizada,,programador
 Consultor SAP - Diferentes Módulos,Serem,,,Actualizada,,programador
-Desarrollador/a Fullstack Java JSF,Digital Talent Agency,,,Actualizada,,programador
 Consultor - Programador/a Java Spring,Digital Talent Agency,,,Actualizada,,programador
 Software Engineer .NET - Industrial Systems,Digital Talent Agency,,,Actualizada,,programador
-AI Engineer (3D Modeling & Computer Vision),Arelance,,,Actualizada,,programador
 Desarrollador React Native,Serem,,,Actualizada,,programador
 AS400,Arelance,,,Actualizada,,programador
 Desarrollador Python,Arelance,,,Actualizada,,programador
-Desarrollador/a REACT NATIVE (INGLÉS ALTO),CAS TRAINING,,,Actualizada,,programador
 FullStack Developer (Angular / Java),Serem,,,Actualizada,,programador
 Programador/a Fullstack Java Angular,CAS TRAINING,,,Actualizada,,programador
 Java Developer Sr.-Microservices/Spring Boot,Serem,,,Actualizada,,programador
@@ -415,46 +419,45 @@ Desarrollador VHDL,Sopra Steria,,,Actualizada,,programador
 Senior Software Engineer,Factorial,,,Actualizada,,programador
 Frontend Developer,Accenture,,,Actualizada,,programador
 Android Developer,Accenture,,,Actualizada,,programador
+Full Stack Developer React,knowmad mood,,,Actualizada,,programador
+Programador/a .NET,sg tech,,,Actualizada,,programador
+Junior Artificial Intelligence Engineer,sg tech,,,Actualizada,,programador
 .NET Senior / Tech Lead Developer,sg tech,,,Actualizada,,programador
+Développeur Fullstack Java / Vue.js,Talan,,,Actualizada,,programador
+Senior Java Software Engineer,Santander,,,Actualizada,,programador
 Ingeniero/a Software Java,knowmad mood,,,Actualizada,,programador
+Senior Software Engineer (FinCore),Ebury,,,Actualizada,,programador
+Software Engineer for Aircraft Simulator,Airbus,,,Actualizada,,programador
+"Senior Java Engineer (Kafka, Grafana, Prometheus)",knowmad mood,,,Actualizada,,programador
 "Technical Lead (Java, microservices)",UST,,,Actualizada,,programador
 Technical Lead Frontend IA,GFR Technologies SE,,,Actualizada,,programador
-Programador/a .NET,sg tech,,,Actualizada,,programador
-Full Stack Developer React,knowmad mood,,,Actualizada,,programador
-Junior Artificial Intelligence Engineer,sg tech,,,Actualizada,,programador
 Senior Fullstack Engineer - Lending Team,Ebury,,,Actualizada,,programador
 AI Engineer (Semipresencial),knowmad mood,,,Actualizada,,programador
 Desarrollador/a ADA,Sopra Steria,,,Actualizada,,programador
 Salesforce Technical Lead,GFR Technologies SE,,,Actualizada,,programador
 Java Backend Developer,EY,,,Actualizada,,programador
+Senior Software Engineer (m/f/d),BASF,,,Actualizada,,programador
 Full Stack Developer NodeJs / Angular,EY,,,Actualizada,,programador
 CORE DIGITAL CAMPUS - SAP Developer (f/m/d),Airbus,,,Actualizada,,programador
-Software Engineer for Aircraft Simulator,Airbus,,,Actualizada,,programador
-"Senior Java Engineer (Kafka, Grafana, Prometheus)",knowmad mood,,,Actualizada,,programador
-Senior Software Engineer (m/f/d),BASF,,,Actualizada,,programador
-Senior Software Engineer (FinCore),Ebury,,,Actualizada,,programador
-Développeur Fullstack Java / Vue.js,Talan,,,Actualizada,,programador
-Senior Java Software Engineer,Santander,,,Actualizada,,programador
-Fullstack Django + React,Advisorsy Robotizacion SL,,,Actualizada,,programador
 Desarollador full-stack (prácticas),Everlasting Art,,,Actualizada,,programador
+Fullstack Django + React,Advisorsy Robotizacion SL,,,Actualizada,,programador
 Analista Programador Natural/Adabas,Arelance,,,Actualizada,,programador
 Programador Cobol,Arelance,,,Actualizada,,programador
 Perfil Senior Fullstack Java + IA Generativa,Digital Talent Agency,,,Actualizada,,programador
 Backend Developer NodeJS,CMV Consultores,,,Actualizada,,programador
-Analista Programador/a Java,Baoss,,,Actualizada,,programador
 Analista Programador .NET/ C#,Second Window,,,Actualizada,,programador
+Analista Programador/a Java,Baoss,,,Actualizada,,programador
 Programador Java,Second Window,,,Actualizada,,programador
 Backend Developer NodeJS con Inglés,Digital Talent Agency,,,Actualizada,,programador
-Desarrollador/a Vuejs,CAS TRAINING,,,Actualizada,,programador
 GIS Python Developer,Serem,,,Actualizada,,programador
 Desarrollador Full Stack,Blister Aplications,,,Actualizada,,programador
 Java Spring Boot y Spring MVC Developer,PANEL Sistemas Informáticos,,,Actualizada,,programador
-Desarrollador/a iOS / Android,Baoss,,,Actualizada,,programador
-Ingeniero/a Back End Python,Novanotio,,,Actualizada,,programador
 Programador/a Senior Java Backend,Serem,,,Actualizada,,programador
+Ingeniero/a Back End Python,Novanotio,,,Actualizada,,programador
+Desarrollador/a iOS / Android,Baoss,,,Actualizada,,programador
 Software Engineer - COBOL / DB2,CMV Consultores,,,Actualizada,,programador
-Ingeniero C/C++ (sistemas distribuidos),Arelance,,,Actualizada,,programador
 Desarrollador/a REACT inglés,CAS TRAINING,,,Actualizada,,programador
+Ingeniero C/C++ (sistemas distribuidos),Arelance,,,Actualizada,,programador
 "Desarrollador/ Backend Java, APX y ASO",PSS,,,Actualizada,,programador
 iOS Developer | Teletrabajo,PSS,,,Actualizada,,programador
 Técnico/a de Desarrollo de Aplicaciones Web,ACERTA CERTIFICACIÓN S.L.,,,Actualizada,,programador
@@ -466,33 +469,31 @@ Desarrollador/a Senior Backend Java,Baoss,,,Actualizada,,programador
 Desarrollador/a Java Oracle,CAS TRAINING,,,Actualizada,,programador
 Desarrollador RPG AS/400,PSS,,,Actualizada,,programador
 Programador/a JAVA KAFKA,CAS TRAINING,,,Actualizada,,programador
-Desarrollador/a C# .NET,Sopra Steria,,,Actualizada,,programador
-DevOps y Desarrollador Backend,GMV,,,Actualizada,,programador
 Desarrollador/a Java con Francés,Sopra Steria,,,Actualizada,,programador
-Fullstack Developer (H/M),Michael Page,,,Actualizada,,programador
+Ingeniero/a de software backend,GMV,,,Actualizada,,programador
 Fullstack Developer Java/Angular (Catalan alto),Grupo Digital,,,Actualizada,,programador
-Desarrollador/a Apis con Apigee,Sopra Steria,,,Actualizada,,programador
-Salesforce Developer,GFR Technologies SE,,,Actualizada,,programador
-Aerial Delivery Software Engineer,Airbus,,,Actualizada,,programador
-Programador/a SAP Ui5 en Remoto,Digital Talent Agency,,,Actualizada,,programador
-Desarrollador/a C++,Grupo Digital,,,Actualizada,,programador
-Senior .NET Developers,Plexus,,,Actualizada,,programador
-SAP ABAP - BTP,Michael Page,,,Actualizada,,programador
-Programador/a Java 8 (Procesos Batch),sg tech,,,Actualizada,,programador
-Ingeniero/a software C++ simuladores,GMV,,,Actualizada,,programador
-Ingeniero/a de Software Embebido C/C++,GMV,,,Actualizada,,programador
-Ingeniero/a GNSS,GMV,,,Actualizada,,programador
 Senior Python ETL Developer,Plexus,,,Actualizada,,programador
+Fullstack Developer (H/M),Michael Page,,,Actualizada,,programador
+Ingeniero/a de Software Embebido C/C++,GMV,,,Actualizada,,programador
+Desarrollador/a AEM,Accenture,,,Actualizada,,programador
+Aerial Delivery Software Engineer,Airbus,,,Actualizada,,programador
+Ingeniero/a AIV proyectos espaciales,GMV,,,Actualizada,,programador
+Salesforce Developer,GFR Technologies SE,,,Actualizada,,programador
+Frontend Developer (React / Next.js),knowmad mood,,,Actualizada,,programador
+Desarrollador/a Apis con Apigee,Sopra Steria,,,Actualizada,,programador
+Programador/a SAP Ui5 en Remoto,Digital Talent Agency,,,Actualizada,,programador
+Programador/a Java 8 (Procesos Batch),sg tech,,,Actualizada,,programador
+SAP ABAP - BTP,Michael Page,,,Actualizada,,programador
+Senior .NET Developers,Plexus,,,Actualizada,,programador
+Ingeniero/a de Software (Java),GMV,,,Actualizada,,programador
+Ingeniero/a GNSS,GMV,,,Actualizada,,programador
+Desarrollador/a C++,Grupo Digital,,,Actualizada,,programador
+Programador Senior RPG,Page Personnel,,,Actualizada,,programador
+Desarrollador/a C# .NET,Sopra Steria,,,Actualizada,,programador
+Ingeniero/a software C++ simuladores,GMV,,,Actualizada,,programador
 Developer Android/IOS - Technical Product Owner,Plexus,,,Actualizada,,programador
 Programador/a de Robótica,HAYS,,,Actualizada,,programador
-Ingeniero/a AIV proyectos espaciales,GMV,,,Actualizada,,programador
-Programador Senior RPG,Page Personnel,,,Actualizada,,programador
-Ingeniero/a de Software (Java),GMV,,,Actualizada,,programador
-Desarrollador/a AEM,Accenture,,,Actualizada,,programador
-Frontend Developer (React / Next.js),knowmad mood,,,Actualizada,,programador
-Ingeniero/a de software backend,GMV,,,Actualizada,,programador
-Profesional Backend Java Microservicios (Remoto),Serem,,,Java,,programador
-Programador Java/Open Api,Second Window,,,java,,programador
+Desarrollador/a Fullstack Java,CAS TRAINING,,,Nueva,,analista-programador
 Analista Funcional Banca,Arelance,,,Actualizada,,analista-programador
 Analista Programador/a Cobol Mainframe,sg tech,,,Actualizada,,analista-programador
 Tech Lead M365 (Power Platform & AI),knowmad mood,,,Actualizada,,analista-programador
@@ -515,13 +516,13 @@ Desarrollador/a Full-Stack ERP,Miroytengo,,,PHP,,analista-programador
 Analista Programador/a Python (Data),Inkoova,,,Python,,analista-programador
 Desarrollador/a Moodle,Baoss,,,PHP,,analista-programador
 Snowflake Developer,PANEL Sistemas Informáticos,,,Snowflake,,analista-programador
-Analista Programador/a Full-stack,Aubay,,,java,,analista-programador
 Arquitecto/a Soluciones Software/Sistemas Defensa,Grupo NS,,,NAF v4,,analista-programador
+Analista Programador/a Full-stack,Aubay,,,java,,analista-programador
 Analista Programador .Net (jornada intensiva),Second Window,,,.Net,,analista-programador
 Senior Backend Developer Java,VERSUS E - LEARNING GROUP,,,Java,,analista-programador
 Analista Programador/a Frontend Angular,Aubay,,,Angular,,analista-programador
-Analista Programador/a Front Angular Material   RE,Digital Talent Agency,,,angular,,analista-programador
 "Full Stack Engineer (React.js, Node.js)",Page Personnel,,,React,,analista-programador
+Analista Programador/a Front Angular Material   RE,Digital Talent Agency,,,angular,,analista-programador
 Arquitecto/a de Datos,CAS TRAINING,,,sql,,analista-programador
 Desarrollador/a Java,CAS TRAINING,,,java,,analista-programador
 Desarrollador/a java angular,CAS TRAINING,,,JAVA,,analista-programador
@@ -537,8 +538,8 @@ Analista Programador/Funcional Cobol,PSS,,,Cobol,,analista-programador
 Analista programador en ASP.net,Accuro Technology,,,.net,,analista-programador
 Senior Full Stack Developer,Oxon Epidemiology,,,Node.js,,analista-programador
 Analista Programador/a Natural Adabas,PSS,,,Natural,,analista-programador
-Desarrollador/Analista Backend Java,PSS,,,Java,,analista-programador
 Arquitecto/a Cloud (AWS) en remoto,Digital Talent Agency,,,AWS,,analista-programador
+Desarrollador/Analista Backend Java,PSS,,,Java,,analista-programador
 Programador/a Senior Cobol/CICS/DB2,PSS,,,Cobol,,analista-programador
 Analista Programador/a COBOL,PSS,,,Cobol,,analista-programador
 Analista Programador/a - Python y GIS,Baoss,,,GIS,,analista-programador
@@ -558,10 +559,10 @@ Desarrollador/a COBOL AS/400,ECNA,,,cobol,,analista-programador
 Senior SISnet Analyst & Developer | Core Insurance,PANEL Sistemas Informáticos,,,SISnet,,analista-programador
 "Desarrollador Senior (.NET, Angular/React)",GMV,,,.NET,,analista-programador
 Desarrollador Node.js / Angular / Cloud Native,PANEL Sistemas Informáticos,,,Expressjs,,analista-programador
-Salesforce Commerce Cloud - Funcional,HAYS,,,Salesforce Commerce Cloud,,analista-programador
-Analyst Dynamics 365 CRM Dataverse & Seguridad,Grupo NS,,,Power Automate,,analista-programador
 Analista Funcional Java,Grupo Digital,,,java,,analista-programador
+Salesforce Commerce Cloud - Funcional,HAYS,,,Salesforce Commerce Cloud,,analista-programador
 Ingeniero/a Software - Python Flight Dynamics,GMV,,,Python,,analista-programador
+Analyst Dynamics 365 CRM Dataverse & Seguridad,Grupo NS,,,Power Automate,,analista-programador
 Desarrollador/a Full Stack Java,CIB labs,,,java,,analista-programador
 Especialista Microsoft Dynamics 365,PANEL Sistemas Informáticos,,,Dynamics 365,,analista-programador
 Ingeniero/a Apigee,Baoss,,,Apigee,,analista-programador
@@ -576,9 +577,9 @@ ServiceNow Engineer / Developer,PANEL Sistemas Informáticos,,,ServiceNow,,anali
 Analista Programador - Cobol y SQL Server,Baoss,,,COBOL,,analista-programador
 Desarrollador/a Java con microservicios,Serem,,,Java,,analista-programador
 Consultant - Kirby / Hammurabi / Control-M,GlobalSysInfo,,,Kirby,,analista-programador
-Analista programador (h/m),Michael Page,,,.NET,,analista-programador
-Power Platform Developer,EY,,,Dynamics 365,,analista-programador
 Analista funcional - Remoto (España),Michael Page,,,SQL,,analista-programador
+Power Platform Developer,EY,,,Dynamics 365,,analista-programador
+Analista programador (h/m),Michael Page,,,.NET,,analista-programador
 Consultor Técnico Navision (presencial),Amenabar,,,C/SIDE,,analista-programador
 Analista Programador,Michael Page,,,Angular,,analista-programador
 Analista programador/a Webfocus,Tuyú Technology,,,Webfocus,,analista-programador
@@ -586,56 +587,57 @@ PEGA Platform Programmer Analyst,Plexus,,,PEGA,,analista-programador
 SAP ABAP Engineer,Santander,,,SAP,,analista-programador
 Analista Funcional COBOL Medios de Pago,PANEL Sistemas Informáticos,,,COBOL,,analista-programador
 Desarrollador/a .NET | C# | WPF | Windows Apps,PANEL Sistemas Informáticos,,,.NET Core,,analista-programador
-Desarrollador RPA-BluePrism,Arelance,,,RPA,,analista-programador
+Tech Lead - Analista de Integración,Chakray,,,Urgente,,arquitecto-tic
 Software Engineer Appian,EXDESIS,,,Urgente,,arquitecto-tic
+Solution Architect - AWS,CMV Consultores,,,Nueva,,arquitecto-tic
 Platform Architect (DevOps),knowmad mood,,,Nueva,,arquitecto-tic
 Arquitecto SAP Basis,Serem,,,Actualizada,,arquitecto-tic
 IT Solution Architect,BASF,,,Actualizada,,arquitecto-tic
 Technology Cloud Architect,Accenture,,,Actualizada,,arquitecto-tic
 Integration Solution Architect / System,sg tech,,,Actualizada,,arquitecto-tic
 Arquitecto/a Infraestructura IT,CMV Consultores,,,Actualizada,,arquitecto-tic
-Ingeniero/a Arquitecto/a de Datos,Grupo Digital,,,Actualizada,,arquitecto-tic
 Embedded Platform Support Software Architect,Airbus,,,Actualizada,,arquitecto-tic
+Ingeniero/a Arquitecto/a de Datos,Grupo Digital,,,Actualizada,,arquitecto-tic
 Arquitecto/a de Observabilidad,Grupo Digital,,,observabilidad,,arquitecto-tic
 SW Engineer (C++/C#/Python),Page Personnel,,,C#,,arquitecto-tic
 Arquitecto Servicios Arquitectura Datos (Big Data),Cajamar Tecnología,,,Oracle,,arquitecto-tic
 Genesys Cloud Architect / Developer,PANEL Sistemas Informáticos,,,Genesys Cloud CX,,arquitecto-tic
-A/C Security Architect (d/f/m),Airbus,,,MAGERIT,,arquitecto-tic
-Cloud Lead - Solutions Architect ServiceNow,Cognizant Technology Solutions,,,ServiceNow,,arquitecto-tic
-Solution Architect Canales asistidos,UST,,,solution architecture,,arquitecto-tic
 Technical Lead - Adobe Experience Manager,Michael Page,,,Adobe Experience Manager,,arquitecto-tic
+A/C Security Architect (d/f/m),Airbus,,,MAGERIT,,arquitecto-tic
+Solution Architect Canales asistidos,UST,,,solution architecture,,arquitecto-tic
+Cloud Lead - Solutions Architect ServiceNow,Cognizant Technology Solutions,,,ServiceNow,,arquitecto-tic
 Empleo Público – Arquitecturas Cloud,Universidad de Alicante,,,Cloud,,arquitecto-tic
-Senior Cloud Architect / Multi‑Cloud,Accenture,,,AWS,,arquitecto-tic
 Arquitecto/a de ciberseguridad,GMV,,,Ciberseguridad,,arquitecto-tic
-Arquitecto/a de ciberseguridad,Sopra Steria,,,ciberseguridad,,arquitecto-tic
-SAP Solution Architect,Accenture,,,SAP,,arquitecto-tic
-Arquitecto/a Soluciones AWS + Catalán,Grupo NS,,,AWS,,arquitecto-tic
 Typescript Archtect - AWS,Page Personnel,,,Typescrpt,,arquitecto-tic
+Arquitecto/a Soluciones AWS + Catalán,Grupo NS,,,AWS,,arquitecto-tic
+Arquitecto/a de ciberseguridad,Sopra Steria,,,ciberseguridad,,arquitecto-tic
 IT Solution Architect for Document Management,Airbus,,,FileNet,,arquitecto-tic
+Senior Cloud Architect / Multi‑Cloud,Accenture,,,AWS,,arquitecto-tic
+SAP Solution Architect,Accenture,,,SAP,,arquitecto-tic
 Salesforce Architect,GFR Technologies SE,,,Salesforce,,arquitecto-tic
 Arquitecto de Software Senior,CMV Consultores,,,Spring Boot,,arquitecto-tic
 Lead Solution Architect SAP QM,Michael Page,,,SAP QM,,arquitecto-tic
 Cloud Architect,Michael Page,,,Azure,,arquitecto-tic
-ERP Solution Architect,Michael Page,,,ERP,,arquitecto-tic
 Arquitecto Empresarial,Michael Page,,,TOGAF,,arquitecto-tic
+ERP Solution Architect,Michael Page,,,ERP,,arquitecto-tic
 Microsoft F&O Functional Architect,HAYS,,,Dynamics 365,,arquitecto-tic
-CTO / IT Digital Transformation Lead,Michael Page,,,AI,,arquitecto-tic
 Lead Engineer/Solutions Architect EdTech,Page Personnel,,,API,,arquitecto-tic
 Arquitecto de Soluciones Empresariales,Michael Page,,,Java,,arquitecto-tic
+CTO / IT Digital Transformation Lead,Michael Page,,,AI,,arquitecto-tic
 Arquitecto/a Backend Java,knowmad mood,,,java,,arquitecto-tic
 Senior Data & AI Architect / Technical Lead,Deloitte,,,GenAI,,arquitecto-tic
-Solution Architect senior,Grupo Digital,,,Solution Architect,,arquitecto-tic
 Arquitecto/a de Datos,GMV,,,IBM Watsonx,,arquitecto-tic
+Solution Architect senior,Grupo Digital,,,Solution Architect,,arquitecto-tic
 Arch de Plataforma de Cómputo y Contenedores,Cajamar Tecnología,,,CKA,,arquitecto-tic
 SAP Manufacturing & Operations Expert,Michael Page,,,SAP,,arquitecto-tic
-Architect I - Software Testing,UST,,,QA,,arquitecto-tic
 Arquitecto/a Java - Sector Seguros,knowmad mood,,,java,,arquitecto-tic
+Architect I - Software Testing,UST,,,QA,,arquitecto-tic
 Arquitecto Cloud AWS,Grupo Digital,,,aws,,arquitecto-tic
 Telecom Engineer,Baoss,,,AdTech,,arquitecto-tic
-Enterprise Artificial Intelligence Architect,EPAM,,,AI,,arquitecto-tic
-Full stack .NET/Angular,Sopra Steria,,,.NET,,arquitecto-tic
-Lider Técnico/a .NET,GMV,,,C#,,arquitecto-tic
 Arquitecto .Net,Michael Page,,,.NET,,arquitecto-tic
+Enterprise Artificial Intelligence Architect,EPAM,,,AI,,arquitecto-tic
+Lider Técnico/a .NET,GMV,,,C#,,arquitecto-tic
+Full stack .NET/Angular,Sopra Steria,,,.NET,,arquitecto-tic
 Data Architect,EY,,,Azure Data,,arquitecto-tic
 Arquitecto de Software/Datos,Michael Page,,,java,,arquitecto-tic
 Senior DevOps & Kubernetes,PANEL Sistemas Informáticos,,,AWS,,arquitecto-tic
@@ -659,17 +661,17 @@ BCC - Arquitectura de Ciberseguridad,Cajamar Tecnología,,,CCSP,,arquitecto-tic
 Tech Lead Java Spring Boot,sg tech,,,Java,,arquitecto-tic
 Senior Developer / Software architect de Sitecore,Deloitte,,,Sitecore,,arquitecto-tic
 ServiceNow Developer 100% (f/m/d),Julius Baer,,,Active Directory,,arquitecto-tic
-Analista Funcional Java/Oracle,Sopra Steria,,,Java,,arquitecto-tic
 Consultor/a SAP FICO Senior,Michael Page,,,SAP,,arquitecto-tic
 Arquitecto Mainframe - Seguros,Michael Page,,,Mainframe,,arquitecto-tic
+Analista Funcional Java/Oracle,Sopra Steria,,,Java,,arquitecto-tic
 Arquitecto/a - Ingeniero/a Cloud y DevOps,EY,,,AWS,,arquitecto-tic
 Solution Architect ServiceNow,Michael Page,,,ServiceNow,,arquitecto-tic
 AI Architect (Cloud Technologies),Deloitte,,,Google Cloud,,arquitecto-tic
 Software Lead,WayOps,,,Python,,arquitecto-tic
 Cloud Native Application Developer,Deloitte,,,AWS,,arquitecto-tic
+Staff React Engineer (TypeScript + AI),WIZELINE,,,React,,arquitecto-tic
 AI Software Native Senior Engineer,Accenture,,,AI,,arquitecto-tic
 SAP Utilities Transmission & Distribution Lead,Accenture,,,SAP Utilities,,arquitecto-tic
-Staff React Engineer (TypeScript + AI),WIZELINE,,,React,,arquitecto-tic
 Cloud Native Application Architect,Deloitte,,,Python,,arquitecto-tic
 Software Architect Lead React,GFR Technologies SE,,,react,,arquitecto-tic
 Senior Cloud Architect,Swiss Re,,,azure,,arquitecto-tic
@@ -729,9 +731,9 @@ PHP (LARAVEL) Developer,HAYS,,,php,,desarrollador-web
 FullStack Developer - Javascript,HAYS,,,JavaScript,,desarrollador-web
 .NET or C# Developer zona Alzira,HAYS,,,.net,,desarrollador-web
 Cloud Developer,HAYS,,,AWS,,desarrollador-web
+Programador .Net,Indra Sistemas,,,.Net,,desarrollador-web
 Desarrollador Java,Indra Sistemas,,,java,,desarrollador-web
 Desarrollador Front End,Indra Sistemas,,,javascript,,desarrollador-web
-Programador .Net,Indra Sistemas,,,.Net,,desarrollador-web
 Programador/a PHP (Laravel / Symfony),The Adecco Group,,,PHP,,desarrollador-web
 Desarrollador Java,Talent Search People,,,java,,desarrollador-web
 Senior Angular Developer,Talent Search People,,,Angular,,desarrollador-web
@@ -743,27 +745,27 @@ Big Data Developer,Apolo IT Group,,,java,,desarrollador-web
 Senior Full-Stack developer,The Adecco Group,,,net,,desarrollador-web
 Desarrolladores Java,Stratio,,,java,,desarrollador-web
 Beca Fullstack Developers,BNP Paribas,,,angular,,full-stack
+Desarrollador/a Fullstack con Francés,Sopra Steria,,,java,,full-stack
+Programador/a Fullstack,HAYS,,,Python,,full-stack
+Java Fullstack Developer,BNP Paribas,,,java,,full-stack
 Desarrollador/a Full-Stack,Aubay,,,Angular,,full-stack
 FullStack senior developer (Java/React),Sopra Steria,,,Java,,full-stack
-Programador/a Fullstack,HAYS,,,Python,,full-stack
-Desarrollador/a Fullstack con Francés,Sopra Steria,,,java,,full-stack
-Java Fullstack Developer,BNP Paribas,,,java,,full-stack
 Full Stack Developer (Python),Kratos Growth,,,Python,,full-stack
 Fullstack .Net Senior Developer,Page Personnel,,,.net,,full-stack
 Senior Fullstack .NET,HAYS,,,.NET,,full-stack
+Full Stack (Node.js React),HAYS,,,React,,full-stack
 Full Stack Engineer (Java/React),UST,,,java,,full-stack
 Fullstack Developer (JavaScript/Python),HAYS,,,JavaScript,,full-stack
 Fullstack Developer PHP (h/m),Michael Page,,,PHP,,full-stack
-Full Stack (Node.js React),HAYS,,,React,,full-stack
 Desarrollador/a Full Stack .NET,GMV,,,.NET,,full-stack
 Full Stack Developer,EY,,,Java,,full-stack
 Senior Full stack,HAYS,,,Node,,full-stack
 Senior Fullstack PHP,Michael Page,,,PHP,,full-stack
-Angular Full Stack Developer,knowmad mood,,,Java,,full-stack
 Java Fullstack Developer,HAYS,,,Java,,full-stack
+Angular Full Stack Developer,knowmad mood,,,Java,,full-stack
 Full Stack Developer (.Net/React),UST,,,.net,,full-stack
-Fullstack Developer .Net / Vuejs,knowmad mood,,,.net,,full-stack
 Fullstack .Net Core / Angular,knowmad mood,,,.NET,,full-stack
+Fullstack Developer .Net / Vuejs,knowmad mood,,,.net,,full-stack
 Fullstack Developer React/Node/GraphQL,HAYS,,,TypeScript,,full-stack
 Fullstack Developer (JavaScript/PHP),HAYS,,,PHP,,full-stack
 Programador Senior FullStack PHP,Akkodis,,,PHP,,full-stack
@@ -792,10 +794,10 @@ Ingeniero/a de Software de IA,GMV,,,Inteligencia Artificial,,full-stack
 Take Up Java,Sopra Steria,,,Java,,full-stack
 Programador/a Java + Angular,sg tech,,,Java,,full-stack
 IA Software Engineer,Aubay,,,Python,,full-stack
-Specialist I - Software Engineering,UST,,,react,,full-stack
 Senior Technical Product Owner,HAYS,,,Product Owner,,full-stack
-Technical Product Owner (Banca),UST,,,agile,,full-stack
+Specialist I - Software Engineering,UST,,,react,,full-stack
 React Frontend Developer,HAYS,,,TypeScript,,full-stack
+Technical Product Owner (Banca),UST,,,agile,,full-stack
 Senior Developer .Net,Plexus,,,.net,,full-stack
 Release Manager,UST,,,itil,,full-stack
 Programador Spring Boot y Angular,Alcorce Telecomunicaciones,,,spring boot,,full-stack
@@ -809,15 +811,16 @@ AWS Devops,Plexus,,,Nueva,,devops
 DevOps Engineer Junior (1-2 años de experiencia),CAS TRAINING,,,Actualizada,,devops
 DevOps,Arelance,,,Actualizada,,devops
 DevOps Engineer (Mid-Level),Deloitte,,,Actualizada,,devops
-DevOps Engineer - Release & Deployment,UST,,,Actualizada,,devops
 Senior DevOps Engineer,UST,,,Actualizada,,devops
+DevOps Engineer - Release & Deployment,UST,,,Actualizada,,devops
 DevOps Configurator - Supply & CMO Planning,Sanofi,,,Actualizada,,devops
 Ingeniero DevOps SailPoint - SDS,Santander,,,Actualizada,,devops
 Ingeniero/a DevOps,Arelance,,,Actualizada,,devops
-DEVSECOPS,Michael Page,,,Actualizada,,devops
-Cloud Engineer,Aubay,,,Actualizada,,devops
 Ingeniero/s DevOps,sg tech,,,Actualizada,,devops
+Cloud Engineer,Aubay,,,Actualizada,,devops
 AWS Cloud Security Engineer,Grupo NS,,,Actualizada,,devops
+DEVSECOPS,Michael Page,,,Actualizada,,devops
+DevOps y Desarrollador Backend,GMV,,,Actualizada,,devops
 DevOps Dev Spaces/OpenShift,Grupo NS,,,devops,,devops
 Consultor/a Devops,Nextret,,,OpenShift,,devops
 Developer Cloud AWS & Kubernetes,Grupo NS,,,angular,,devops
@@ -827,12 +830,12 @@ Consultor Seguridad,Grupo Digital,,,ciberseguridad,,devops
 DevOps Senior - Ciberdefensa,CMV Consultores,,,Kubernetes,,devops
 Ingeniero DevOps (CI/CD e IAC),PSS,,,DevOps,,devops
 Cloud Observability Engineer,Deloitte,,,AWS,,devops
-Software engineer/ DevOps/ MLOps,UST,,,LLM,,devops
-AWS Cloud Engineer con inglés,Aubay,,,AWS,,devops
-Senior Java/Kotlin Backend Engineer,HAYS,,,Kotlin,,devops
-Cloud and Devops Developer (m/f),Airbus,,,CI/CD,,devops
-DevOps Engineer (Tech Solutions),Michael Page,,,Kubernetes,,devops
 Site Reliability Engineering,UST,,,devops,,devops
+DevOps Engineer (Tech Solutions),Michael Page,,,Kubernetes,,devops
+Senior Java/Kotlin Backend Engineer,HAYS,,,Kotlin,,devops
+Software engineer/ DevOps/ MLOps,UST,,,LLM,,devops
+Cloud and Devops Developer (m/f),Airbus,,,CI/CD,,devops
+AWS Cloud Engineer con inglés,Aubay,,,AWS,,devops
 CORE DIGITAL CAMPUS Full-Stack Developer,Airbus,,,Angular,,devops
 Kafka Developer,BNP Paribas,,,Kafka,,devops
 Cloud Engineer,GFR Technologies SE,,,IaC,,devops
@@ -842,16 +845,16 @@ Devops Azure,Aubay,,,azure,,devops
 Lead Cloud Engineer (cliente final),Michael Page,,,azure,,devops
 Desarrollador/a Backend Java con Azure,Sopra Steria,,,java,,devops
 Cloud Security Architect,Accenture,,,AWS,,devops
-CyberSecurity Cloud Architect,Santander,,,Ciberseguridad,,devops
 Experto Kafka + DevOps,Sopra Steria,,,Kafka,,devops
+CyberSecurity Cloud Architect,Santander,,,Ciberseguridad,,devops
 Ingeniero/a DevOps,GMV,,,CI/CD,,devops
 Cloud Engineer - Space & Critical System,GMV,,,Cloud,,devops
 System Consultant,XCI,,,Linux,,devops
 SRE/DevOps Lead (Remote from Spain),UST,,,aws,,devops
-Devops - Azure,Page Personnel,,,azure,,devops
-Técnico/a de I+D+i,Michael Page,,,C,,devops
 DevOps Engineer - Senior,EY,,,Azure,,devops
+Técnico/a de I+D+i,Michael Page,,,C,,devops
 DevSecOps Engineer (f/m/d),Axpo Group,,,CI/CD,,devops
+Devops - Azure,Page Personnel,,,azure,,devops
 "DevOps Senior Azure Infraestructura Cloud, CI/CD",Digital Talent Agency,,,Azure,,devops
 Senior Azure Devops - Inglés Alto,Sopra Steria,,,azure,,devops
 System Administrador Senior,HAYS,,,PostgreSQL,,devops
@@ -897,13 +900,13 @@ Ingeniero/a infraestructuras,GMV,,,Linux,,devops
 DevSecOps Engineer,Accenture,,,Ciberseguridad,,devops
 DevOps,Adecco Outsourcing,,,GitLab,,devops
 Técnico Ciberseguridad SIEM,Sopra Steria,,,Nueva,,ciberseguridad
+Ingeniero/a de Seguridad de Redes (Firewalls),Grupo Sermicro,,,Actualizada,,ciberseguridad
 Analista de Ciberseguridad,Serem,,,Actualizada,,ciberseguridad
 Técnico/a informático/a JR ciberseguridad (30h),Sosmatic,,,Actualizada,,ciberseguridad
 Consultor/a Junior de Ciberseguridad ENS,Arelance,,,Actualizada,,ciberseguridad
 Especialista en ciberseguridad-SailPoint,Serem,,,Actualizada,,ciberseguridad
-Ingeniero/a de Seguridad de Redes (Firewalls),Grupo Sermicro,,,Actualizada,,ciberseguridad
-Analista de Ciberseguridad,Santander,,,Actualizada,,ciberseguridad
 Cybersecurity & Compliance Specialist,Airbus,,,Actualizada,,ciberseguridad
+Analista de Ciberseguridad,Santander,,,Actualizada,,ciberseguridad
 Técnico/a de Seguridad,Arelance,,,Actualizada,,ciberseguridad
 Técnico/a Sistemas Experto/a en Redes y Seguridad,Alcampo,,,Actualizada,,ciberseguridad
 Consultor/a Ciberseguridad GRC (PART-IS),Sopra Steria,,,Actualizada,,ciberseguridad
@@ -918,8 +921,8 @@ Analista de Seguridad de la Información,GMV,,,ENS,,ciberseguridad
 GRC Cybersecurity Specialist (ISO 27001)  Aviation,WAMOS AIR,,,ciberseguridad,,ciberseguridad
 Analista Junior - Seguridad Proyectos IT,Baoss,,,analisis funcional,,ciberseguridad
 CyberArk PAM Specialist,PANEL Sistemas Informáticos,,,CyberArk,,ciberseguridad
-Administración de ciberseguridad GRC,Seidorcons,,,Ciberseguridad,,ciberseguridad
 Ingeniero/a de PKI,GMV,,,Ciberseguridad,,ciberseguridad
+Administración de ciberseguridad GRC,Seidorcons,,,Ciberseguridad,,ciberseguridad
 Consultor/a de Ciberseguridad,GMV,,,Ciberseguridad,,ciberseguridad
 Consultor/a junior de Ciberseguridad,GMV,,,Ciberseguridad,,ciberseguridad
 Security Architect / Cloud Security Engineer,Grupo Digital,,,Kubernetes,,ciberseguridad
@@ -929,25 +932,25 @@ Ingeniero de Ciberseguridad,Arelance,,,Ansible,,ciberseguridad
 Técnico Seguridad y Ciberseguridad Junior,AGUAS DE BURGOS,,,Firewall,,ciberseguridad
 Técnico/a - Riesgos IT y Ciberseguridad,Baoss,,,Ciberseguridad,,ciberseguridad
 Técnico/a GRC - Riesgos IT y Cumplimiento,Baoss,,,GRC,,ciberseguridad
-Manager de Ciberseguridad,GMV,,,Ciberseguridad,,ciberseguridad
 IT Security Lead (Vallés Occidental),Michael Page,,,ISO 27001,,ciberseguridad
+Manager de Ciberseguridad,GMV,,,Ciberseguridad,,ciberseguridad
 Personal Técnico - Purple Team (Ciberseguridad),Cajamar Tecnología,,,Mitre Att&ck,,ciberseguridad
-Service Manager SOC/CERT,GMV,,,SIEM,,ciberseguridad
-Microsoft Cloud Security Engineer,Devoteam,,,Microsoft,,ciberseguridad
 CISO/CTO/IT Project Manager - Freelance,Michael Page,,,ITIL,,ciberseguridad
-CyberArk Engineer - Empresa final,Michael Page,,,CyberArk,,ciberseguridad
+Service Manager SOC/CERT,GMV,,,SIEM,,ciberseguridad
 Pentester senior,GMV,,,pentesting,,ciberseguridad
-Tecnico SEGURIDAD y Automatizacion JR,Grupo Digital,,,ciberseguridad,,ciberseguridad
+Microsoft Cloud Security Engineer,Devoteam,,,Microsoft,,ciberseguridad
+CyberArk Engineer - Empresa final,Michael Page,,,CyberArk,,ciberseguridad
 Manager Ciberseguridad - Estrategia,EY,,,Ciberseguridad,,ciberseguridad
+Tecnico SEGURIDAD y Automatizacion JR,Grupo Digital,,,ciberseguridad,,ciberseguridad
 Prácticas Consultoría Ciberseguridad,EY,,,Ciberseguridad,,ciberseguridad
 Consultoría Riesgo Tecnológico,Cajamar Tecnología,,,CRISC,,ciberseguridad
 Responsable de Sistemas (h/m),Michael Page,,,SQL Server,,ciberseguridad
 #CORE: Network Security Engineer,Airbus,,,Firewalls,,ciberseguridad
 Especialista en seguridad y cifrado corporativo.,Baoss,,,Vormetric,,ciberseguridad
-Cybersecurity engineer,HAYS,,,ciberseguridad,,ciberseguridad
-IT Risk Manager,HAYS,,,ciberseguridad,,ciberseguridad
-Especialista en Ciberseguridad - CyberArk,Atos,,,CyberArk,,ciberseguridad
 L1 SOC Analyst,UST,,,SIEM,,ciberseguridad
+Especialista en Ciberseguridad - CyberArk,Atos,,,CyberArk,,ciberseguridad
+IT Risk Manager,HAYS,,,ciberseguridad,,ciberseguridad
+Cybersecurity engineer,HAYS,,,ciberseguridad,,ciberseguridad
 Senior Cybersecurity Operations Engineer - ODS,Santander,,,Splunk,,ciberseguridad
 Ténico/a seguridad MICROSOFT,Grupo Sermicro,,,Defender,,ciberseguridad
 IT Risk Junior,EY,,,ciberseguridad,,ciberseguridad
@@ -955,9 +958,9 @@ Cybersecurity Consultant,GFR Technologies SE,,,Ciberseguridad,,ciberseguridad
 Cybersecurity Engineer,HAYS,,,Ciberseguridad,,ciberseguridad
 Cybersecurity Expert Consultant,Plexus,,,Ciberseguridad,,ciberseguridad
 Cybersecurity Architect,Plexus,,,ciberseguridad,,ciberseguridad
-Consultor/a Junior de Ciberseguridad ENS,Atos,,,Ciberseguridad,,ciberseguridad
-IS Compliance and Risk/ IS GRC Consultant,Michael Page,,,ISO 27001,,ciberseguridad
 IT Risk Expert / Consultor Riesgos,Michael Page,,,Ciberseguridad,,ciberseguridad
+IS Compliance and Risk/ IS GRC Consultant,Michael Page,,,ISO 27001,,ciberseguridad
+Consultor/a Junior de Ciberseguridad ENS,Atos,,,Ciberseguridad,,ciberseguridad
 Especialista en infraestructuras SIEM,GMV,,,SIEM,,ciberseguridad
 Cybersecurity Architect,Airbus,,,PKI,,ciberseguridad
 Operador/a L2 de Ciberseguridad,GMV,,,ciberseguridad,,ciberseguridad
@@ -1012,10 +1015,10 @@ Ingeniero/a Sénior ATM,GMV,,,Vsphere,,tester
 Ingeniero/a QA,GMV,,,QA,,tester
 Coordinador/a de Verificacion,GMV,,,DOORS,,tester
 Técnico/a Soporte Junior Genesys Cloud CX,CAS TRAINING,,,Actualizada,,junior
-Ingeniero junior. Centro de control,Page Personnel,,,Actualizada,,junior
-Técnico/a de automatización junior,HAYS,,,Actualizada,,junior
-Ingeniero/a de diseño mecánico junior,HAYS,,,Actualizada,,junior
 AI Project Manager Junior,knowmad mood,,,Actualizada,,junior
+Técnico/a de automatización junior,HAYS,,,Actualizada,,junior
+Ingeniero junior. Centro de control,Page Personnel,,,Actualizada,,junior
+Ingeniero/a de diseño mecánico junior,HAYS,,,Actualizada,,junior
 Ingeniero/a de Software Junior con C++,GMV,,,C++,,junior
 Ingeniero/a Producto junior,Page Personnel,,,CAD,,junior
 Junior Project Manager (Temporary 1 year),Michael Page,,,BI,,junior
@@ -1023,8 +1026,8 @@ Backend Java Junior (APIs),Baoss,,,API,,junior
 Ingeniero/a Junior Telecomunicaciones IMS/VoLTE,PANEL Sistemas Informáticos,,,IMS,,junior
 Desarrollador Junior Murex,PSS,,,Murex,,junior
 Ingeniero Junior Mantenimiento,HAYS,,,GMAO,,junior
-Trade Marketing Junior (FMCG),Page Personnel,,,marketing,,junior
 Ingeniero/a Estructuras Junior,Page Personnel,,,SAP2000,,junior
+Trade Marketing Junior (FMCG),Page Personnel,,,marketing,,junior
 Junior IT Support - Help Desk,EY,,,soporte,,junior
 Consultor Junior SAP PP Funcional,Michael Page,,,SAP,,junior
 "Junior Developer (.NET, Angular/React)",GMV,,,C#,,junior
@@ -1042,11 +1045,11 @@ Junior Java Developer,Plexus,,,java,,junior
 Junior Java Programmer,Plexus,,,java,,junior
 Ingeniero/a de Puesta en Marcha Junior,HAYS,,,ingenieria,,junior
 Soporte Técnico Genesys Cloud CX (Junior / N3),Grupo NS,,,genesys cloud,,junior
-Ingeniero/a Junior - Empresa Industrial,Michael Page,,,Lean,,junior
+Satellite Operations Engineer Junior,Page Personnel,,,satellite,,junior
 Junior AI Engineer,Menhir AI,,,Python,,junior
+Ingeniero/a Junior - Empresa Industrial,Michael Page,,,Lean,,junior
 Consultor/a Implantador/a Junior EISI HOTEL,EISI Soft,,,software,,junior
 Técnico/a junior o semitécnico mecánico,Michael Page,,,AutoCAD,,junior
-Satellite Operations Engineer Junior,Page Personnel,,,satellite,,junior
 Técnico/a de compras Junior,Michael Page,,,SAP,,junior
 Ingeniero/a de software .NET Junior,GMV,,,.NET,,junior
 Ingeniero/a electrónico/a junior,Michael Page,,,STM32,,junior
@@ -1063,11 +1066,11 @@ Ingeniero/a eléctrico,HAYS,,,Nueva,,junior
 Ingeniero/a de procesos y producción Jr,HAYS,,,Actualizada,,junior
 Operador/a Control-M / Linux,Baoss,,,ControlM,,junior
 Software Development Engineer,Amazon,,,Java,,junior
-Java Tech Lead (AWS) - Remote,UST,,,java,,junior
 AI Senior Designer,FeverUp,,,Figma,,junior
-Programador/a PLC,Page Personnel,,,PLC,,junior
+Java Tech Lead (AWS) - Remote,UST,,,java,,junior
 Senior Software Engineer Backend (Java/Kotlin),Aubay,,,Java,,junior
 Testing Engineer montaje de SETUPS,Page Personnel,,,Python,,junior
+Programador/a PLC,Page Personnel,,,PLC,,junior
 Intelligent Mobility Systems Engineer,UST,,,scada,,junior
 Consultor/a Funcional F&O Produccion,HAYS,,,Dynamics,,junior
 Técnico/a de Sistemas y Comunicaciones,HAYS,,,Redes,,junior
@@ -1078,9 +1081,10 @@ PHP Team Lead,HAYS,,,Python,,junior
 Ingeniero/a de Instalaciones,Page Personnel,,,Autocad,,junior
 Lead Automation Test Engineer with Java,EPAM,,,Java,,junior
 Java Tech Lead with AWS,UST,,,Java,,junior
-Consultor Sector Público IT,Page Personnel,,,BPM,,junior
 Service Delivery Manager,Page Personnel,,,Project,,junior
+Consultor Sector Público IT,Page Personnel,,,BPM,,junior
 Microservices Software Engineering,Accenture,,,java,,junior
+Desarrollador RPA-BluePrism,Arelance,,,RPA,,junior
 SAP BW/4HANA Consultant,Akkodis,,,SAP,,junior
 Senior Java Developer M/F,Akkodis,,,Java,,junior
 Senior Java Engineer (IT Lead),Plexus,,,java,,junior
@@ -1096,44 +1100,44 @@ Desarrollador/a Java Microservicios,GFR Technologies SE,,,Java,,junior
 Senior Angular Developer,GFR Technologies SE,,,Angular,,junior
 Senior AI Creative Designer,FeverUp,,,Figma,,junior
 Enterprise AI Value Strategy Manager,Accenture,,,Supply Chain,,junior
-Técnico auditoría informática (media jornada),Pulsia Technology,,,Nueva,,soporte-tecnico
 Helpdesk / jornada parcial,Sosmatic,,,Nueva,,soporte-tecnico
+Técnico auditoría informática (media jornada),Pulsia Technology,,,Nueva,,soporte-tecnico
 "Técnico Soporte Provisión 3G, 4G, 5G",Michael Page,,,Nueva,,soporte-tecnico
 Operador IT (inglés alto),Sopra Steria,,,Nueva,,soporte-tecnico
+Técnicos de Soporte,Seltime,,,Actualizada,,soporte-tecnico
+Técnico/a de Soporte IT On Site,Sosmatic,,,Actualizada,,soporte-tecnico
 Técnico Microinformática,Pulsia Technology,,,Actualizada,,soporte-tecnico
 Técnico de Soporte Nivel 2 (Inglés alto),Serem,,,Actualizada,,soporte-tecnico
 Técnico/a de Sistemas - SAP Business One,Axalpha Consulting,,,Actualizada,,soporte-tecnico
 DIGITAL CAMPUS - Windows Server Administrator,Airbus,,,Actualizada,,soporte-tecnico
 Técnico/a de Mantenimiento y CPD Nivel 2,Arelance,,,Actualizada,,soporte-tecnico
+Ingeniero Informàtico,Fundació APIP-ACAM,,,Actualizada,,soporte-tecnico
 TÉCNICO/A ONSITE,Grupo Sermicro,,,Actualizada,,soporte-tecnico
 Manager Gravity (Micro Focus),PANEL Sistemas Informáticos,,,Actualizada,,soporte-tecnico
 Técnico/a Informático/a helpdesk con inglés,Sosmatic,,,Actualizada,,soporte-tecnico
-Ingeniero Informàtico,Fundació APIP-ACAM,,,Actualizada,,soporte-tecnico
 Técnico/a soporte a usuarios 24/7,Sosmatic,,,Actualizada,,soporte-tecnico
-Técnicos de Soporte,Seltime,,,Actualizada,,soporte-tecnico
-Customer Experience & Post Service Dire,HAYS,,,Actualizada,,soporte-tecnico
-Administrador de Sistemas Microsoft,Michael Page,,,Actualizada,,soporte-tecnico
 IT Consultant Software Support,Michael Page,,,Actualizada,,soporte-tecnico
+Administrador de Sistemas Microsoft,Michael Page,,,Actualizada,,soporte-tecnico
 Administrador Salesforce,HAYS,,,Actualizada,,soporte-tecnico
 Técnico Almacenamiento - Empresa Telco,Michael Page,,,Actualizada,,soporte-tecnico
+Customer Experience & Post Service Dire,HAYS,,,Actualizada,,soporte-tecnico
 Técnico/a Soporte Usuarios/as,Grupo Sermicro,,,windows,,soporte-tecnico
 Operador/a  - Monitorización 24x7,Baoss,,,Linux,,soporte-tecnico
 Técnico/a de Redes (Sector Público),CMV Consultores,,,palo alto,,soporte-tecnico
 Técnico de telecomunicaciones,HAYS,,,cableado,,soporte-tecnico
-Técnico/a de Soporte IT On Site,Sosmatic,,,Citrix,,soporte-tecnico
 Técnico/a microinformática,Grupo Sermicro,,,windows,,soporte-tecnico
 Responsable de Explotación - Híbrido,Digital Talent Agency,,,ITIL,,soporte-tecnico
 Soporte Microinformático / Migración IT (junio),Zaidan IT Consulting,,,Microsfot Windows,,soporte-tecnico
-Soporte / Consultor BC,Michael Page,,,Business Central,,soporte-tecnico
 Gestor Documental / Seguimiento Operativo IT,Seidorcons,,,Microsoft 365,,soporte-tecnico
-Técnico/a de sistemas informáticos,HAYS,,,VMware,,soporte-tecnico
+Soporte / Consultor BC,Michael Page,,,Business Central,,soporte-tecnico
 Técnico de soporte - Videoanalytics co,Page Personnel,,,soporte,,soporte-tecnico
 Técnico/a IT,HAYS,,,Oracle,,soporte-tecnico
+Técnico/a de sistemas informáticos,HAYS,,,VMware,,soporte-tecnico
 Coordinador Técnico - Migración IT (junio),Zaidan IT Consulting,,,microsoft,,soporte-tecnico
 Técnico/a informático/a,Sosmatic,,,active directory,,soporte-tecnico
 Técnico de Servicio de Asistencia,Michael Page,,,Electricidad,,soporte-tecnico
-IT Support Technician,UST,,,windows server,,soporte-tecnico
 Técnico/a de Soporte IT (Onsite),Nextret,,,microinformatica,,soporte-tecnico
+IT Support Technician,UST,,,windows server,,soporte-tecnico
 Técnico de soporte Nivel 1,Ctrl360,,,windows,,soporte-tecnico
 Técnico/a de Campo (Microinformática),Arelance,,,windows,,soporte-tecnico
 Técnico/a IT Programación Soporte Sistemas,"ESICA, Seleccions de Personal",,,Visual Basic,,soporte-tecnico
@@ -1151,22 +1155,22 @@ IT Support Eng I (ONS),Amazon,,,Windows,,soporte-tecnico
 Soporte helpdesk CAU 24*7 Discapacidad,Quental,,,windows,,soporte-tecnico
 Técnico/a Microinformático/a,Serem,,,Windows,,soporte-tecnico
 Soporte IT (Autónomo/Backfill),Advance Global IT Support,,,Active Directory,,soporte-tecnico
-Técnico/a de Soporte On‑Site (N1/N2),Michael Page,,,hardware,,soporte-tecnico
 Application Operation Specialist,Julius Baer,,,Linux,,soporte-tecnico
+Técnico/a de Soporte On‑Site (N1/N2),Michael Page,,,hardware,,soporte-tecnico
 Técnico/a micro,Grupo Sermicro,,,TICKETING,,soporte-tecnico
 Administrador/a de sistemas,GMV,,,Windows,,soporte-tecnico
 Help Desk Support con alemán e inglés,Sosmatic,,,Windows,,soporte-tecnico
-Especialista Soporte IT Data Center,Michael Page,,,TCP/IP,,soporte-tecnico
 Practicas: Preventa y Soluciones Tecnología,GMV,,,soporte,,soporte-tecnico
 Técnico IT JR - Empresa final,Michael Page,,,Microsoft 365,,soporte-tecnico
+Especialista Soporte IT Data Center,Michael Page,,,TCP/IP,,soporte-tecnico
 Técnico/a  en Microinformática,Grupo Sermicro,,,windows,,soporte-tecnico
 Técnico Soporte Multicliente,LÃBERIT,,,soporte,,soporte-tecnico
 Técnico/a de Soporte de Aplicaciones,PANEL Sistemas Informáticos,,,apis,,soporte-tecnico
 Técnico/a de Soporte de Aplicaciones,HAYS,,,JavaScript,,soporte-tecnico
 Administrador/a de sistemas y Redes,TAX INFORMATION TECHNOLOGIES,,,firewall,,soporte-tecnico
 Application Support Engineer,Geseme,,,Transact SQL,,soporte-tecnico
-Técnico/a de Datos Business Operations,BNP Paribas,,,Excel,,soporte-tecnico
 Especialista en Microsoft 365,HAYS,,,Microsoft 365,,soporte-tecnico
+Técnico/a de Datos Business Operations,BNP Paribas,,,Excel,,soporte-tecnico
 Técnico Informático/a,La Casa del PC,,,microinformática,,soporte-tecnico
 IT Specialist (Linux),Page Personnel,,,Linux,,soporte-tecnico
 Técnico/a de sistemas y soporte IT,Bujarkay,,,Windows,,soporte-tecnico
@@ -1211,8 +1215,8 @@ Administrador de Sistemas IT,Invoin,,,Cloud,,administrador-sistemas
 Administrador Middleware,Serem,,,Middleware,,administrador-sistemas
 Administrador de Mensajería MS 365 / Seguridad,PSS,,,Exchange,,administrador-sistemas
 Administrador/a HPUX,Baoss,,,HPUX,,administrador-sistemas
-Administrador de Sistemas,Michael Page,,,Office 365,,administrador-sistemas
 Administrador Citrix / VMware Horizon,PSS,,,Citrix,,administrador-sistemas
+Administrador de Sistemas,Michael Page,,,Office 365,,administrador-sistemas
 Administrador/a de sistemas,Nextret,,,microsoft,,administrador-sistemas
 Administrador/a OpenShift - OCP,Baoss,,,Openshift,,administrador-sistemas
 Administrador/a de Sistemas - IAM,Baoss,,,Okta,,administrador-sistemas
@@ -1243,8 +1247,8 @@ Técnico/a de Comunicaciones,Baoss,,,CISCO,,redes
 Ingeniero de redes N2 (Tech Solutions),Michael Page,,,HP,,redes
 Administrador/a Sistemas y Redes,HAYS,,,Windows Server,,redes
 Ingeniero de Sistemas y Redes,Page Personnel,,,Windows,,redes
-Coordinador/a de Comunicaciones,HAYS,,,WAN,,redes
 Hardware/Network Engineer,GMV,,,Switch,,redes
+Coordinador/a de Comunicaciones,HAYS,,,WAN,,redes
 Ingeniero/a de Red CORE,PANEL Sistemas Informáticos,,,IMS,,redes
 Técnico de Sistemas,Michael Page,,,Windows Server,,redes
 Técnico/a de Redes,Arelance,,,Routing,,redes
@@ -1281,14 +1285,13 @@ Analista PL1 - Banca,Serem,,,Actualizada,,base-datos
 Consultor/a SAP S/4HANA FICO,Serem,,,Actualizada,,base-datos
 Ingeniero/a de Datos,Serem,,,Actualizada,,base-datos
 Digital Strategy and Customer Marketing,Page Personnel,,,Actualizada,,base-datos
-Analista Oracle Senior (Modelado de Datos y BBDD),CMV Consultores,,,Oracle,,base-datos
 Consultor Funcional Seguros,Serem,,,BPMN,,base-datos
-Software Senior Engineer,HAYS,,,JavaScript,,base-datos
 Digital Strategy and Customer Marketing,Michael Page,,,Salesforce,,base-datos
 Administrador BBDD senior,Michael Page,,,Oracle,,base-datos
+Software Senior Engineer,HAYS,,,JavaScript,,base-datos
 Perfil Técnico de Diseño Experto en Eplan,CENKER ROBOTICS,,,EPLAN,,base-datos
-Ingeniero de desarrollo - Sector Eólico,Michael Page,,,Ingenieria,,base-datos
 CRM Specialist - sector relojería lujo,Page Personnel,,,Salesforce,,base-datos
+Ingeniero de desarrollo - Sector Eólico,Michael Page,,,Ingenieria,,base-datos
 PHP Backend Developer,HAYS,,,PHP,,base-datos
 Técnico/a de Soporte,Baoss,,,SQL,,base-datos
 Lead Engineer/CTO - StartUp,Page Personnel,,,IA,,base-datos
@@ -1303,8 +1306,8 @@ QA Automation (C1)- Selenium-Java,Serem,,,Selenium,,base-datos
 Ingeniero de procesos,Page Personnel,,,ingeneria,,base-datos
 Senior CRM Manager (Lifecylce & Retention),PadelPROShop,,,CRM,,base-datos
 Administrador/ora DB2 z/OS Senior,Baoss,,,Z/OS,,base-datos
-Ingeniero de Migraciones,HAYS,,,Oracle,,base-datos
 IA Engineer,Michael Page,,,Python,,base-datos
+Ingeniero de Migraciones,HAYS,,,Oracle,,base-datos
 Senior IT Project Manager - Santander Digital,Santander,,,Project Manager,,base-datos
 Data & ETL Developer,WayOps,,,Python,,base-datos
 Desarrollador/a ETL Talend,Sopra Steria,,,Talend,,base-datos
@@ -1341,9 +1344,8 @@ Senior Consultant / IT Manager,Plexus,,,Nueva,,cloud
 Analista Funcional BackOffice - Tolling,CMV Consultores,,,Actualizada,,cloud
 Salesforce Manager,Michael Page,,,Actualizada,,cloud
 Desarrollador Java / Microservicios,Arelance,,,java,,cloud
-Salesforce Developer,CMV Consultores,,,Salesforce Service Cloud,,cloud
-Director/a IT (Compañía SW Industrial),Michael Page,,,PLC,,cloud
 EMEA CRM Senior Manager - PageGroup SSC,Michael Page,,,Salesforce Marketing Cloud,,cloud
+Director/a IT (Compañía SW Industrial),Michael Page,,,PLC,,cloud
 EMEA CRM Senior Manager - PageGroup SSC,Page Personnel,,,Salesforce Marketing Cloud,,cloud
 Jefe/a de Proyecto Sistemas,Digital Talent Agency,,,sistemas,,cloud
 Comercial IT,HAYS,,,Cloud,,cloud
@@ -1355,8 +1357,8 @@ Responsable IT,HAYS,,,ERP,,cloud
 Technical Lead,NEXYRA,,,Gravitee,,cloud
 Analista Programador ORACLE EBS y APEX,Sedecal,,,Oracle,,cloud
 Functional Lead Oracle Fusion,Accenture,,,Oracle Fusion Cloud,,cloud
-SAP BI/BW and SAC Analytics Cloud Consultant,EY,,,Actualizada,,cloud
 Cloud Operations Engineer,Michael Page,,,Actualizada,,cloud
+SAP BI/BW and SAC Analytics Cloud Consultant,EY,,,Actualizada,,cloud
 SAP Basis Consultant SAP RISE & Cloud,Grupo Digital,,,sap basis,,cloud
 Administrador/a de sistemas Cloud,GMV,,,AWS,,cloud
 SRE Cloud- Infraestructura y Operación TI,Cajamar Tecnología,,,AWS,,cloud
@@ -1365,7 +1367,7 @@ SAP Analytics Cloud Consultant,Plexus,,,sap,,cloud
 Solutions Engineer PreSales | Cloud Infrastructure,OpenNebula,,,Linux,,cloud
 Genesys Cloud Engineer,Akkodis,,,Genesys,,cloud
 Cloud Engineer AWS,Plexus,,,AWS,,cloud
-Manager de Soluciones SAP S/4HANA,Serem,,,Actualizada,,cloud
+Senior GenAI / LLM Engineer,Grupo Digital,,,Nueva,,cloud
 Mobile Developer (Java/Kotlin),HAYS,,,java,,mobile
 Senior Mobile Engineer (F/M/D),Axpo Group,,,react,,mobile
 Senior Software Engineer - Mobile,Factorial,,,React,,mobile
@@ -1381,26 +1383,26 @@ Becas verano Ingeniería Aeroespacial 2026,GMV,,,software,,software
 Técnico/a microinformático/a,The Adecco Group,,,microinformática,,software
 Ingeniero/a de software embebido,GMV,,,Actualizada,,software
 Ingeniero de Software .NET,Sedecal,,,.net,,software
-Software Developer Java + PHP,knowmad mood,,,java,,software
-Desarrollador/a de Software .NET Senior,knowmad mood,,,.net,,software
-"Software Engineer, Python",Bitpanda,,,Python,,software
-Embedded Software Engineer,Airbus,,,C,,software
 Simulation Software Engineer - Eurofighter Flight,Airbus,,,C++,,software
+"Software Engineer, Python",Bitpanda,,,Python,,software
+Software Developer Java + PHP,knowmad mood,,,java,,software
 Software Development Manager,Amazon,,,Bedrock,,software
-Software Requirements and Test Engineer,Airbus,,,C,,software
+Embedded Software Engineer,Airbus,,,C,,software
+Desarrollador/a de Software .NET Senior,knowmad mood,,,.net,,software
 Software Engineer Java + Elasticsearch,knowmad mood,,,java,,software
 Ingeniero/a de software embebido C/C++,GMV,,,C,,software
+Software Requirements and Test Engineer,Airbus,,,C,,software
 Responsable Software Factory,Accuro Technology,,,Microsoft,,software
 Ingeniero/a de Software embarcado,GMV,,,C,,software
 Desarrollador de software .NET,GMV,,,.NET,,software
-International Software Manager,Michael Page,,,C++,,software
 Ingeniero/a Software de Python,GMV,,,Python,,software
+International Software Manager,Michael Page,,,C++,,software
 Software Engineer Java - Sector Bancario,knowmad mood,,,java,,software
 Programador/a Software Embebido,HAYS,,,C#,,software
 Responsable Técnico de Software Java,Indra,,,Angular,,software
 Software Developer Java y React,Baoss,,,Java,,software
-Ingeniero/a de Software Frontend React,GMV,,,JavaScript,,software
 "Team Leader Software (Angular, Java)",Michael Page,,,Angular,,software
+Ingeniero/a de Software Frontend React,GMV,,,JavaScript,,software
 Desarrollador/a Software Embebido,HAYS,,,C++,,software
 Ingeniero/a de Desarrollo Software,"UNMANNED TEKNOLOGIES APPLICATIONS, S.L. (UTEK)",,,C,,software
 Ingeniero Software Java Hexagonal,knowmad mood,,,java,,software
@@ -1440,8 +1442,8 @@ Analista Funcional Moodle,Baoss,,,Actualizada,,web
 Product Marketing Manager,Michael Page,,,Actualizada,,web
 Product Manager Digital (Banca / Pagos),Grupo Digital,,,product manager,,web
 Desarrollador/a .NET (Angular + Entity Framework),Arelance,,,.NET,,web
-Desarrollador,Gisgal,,,JavaScript,,web
 Programador/a .NET,INZACARD,,,.NET,,web
+Desarrollador,Gisgal,,,JavaScript,,web
 Beca UX/UI Designer,BNP Paribas,,,UX/UI,,web
 Técnico en Wonderware,Invoin,,,SCADA,,web
 Ingeniero Informático,CENKER ROBOTICS,,,.net,,web
@@ -1456,4 +1458,3 @@ Desarrollador/a AX (Navision),Michael Page,,,Dynamics AX,,web
 Global SEO Manager - Sector Transporte,Michael Page,,,SEO,,web
 Líder Técnico Satcom Payload,GMV,,,SATCOM,,web
 "Especialista en SEM, SEO y Social Media Strategy",The Last Dock,,,Google Ads,,web
-Freelance Backend Developer (Laravel),HAYS,,,Laravel,,web
