@@ -59,20 +59,20 @@ def scrape_busqueda(termino: str, max_paginas: int = 5) -> list:
         for h in titulos:
             bloque = h.find_parent("div") or h.find_parent("article")
             empresa = bloque.select_one(".text-primary") if bloque else None
-            ubicacion = bloque.select_one("span[class*='d-none']") if bloque else None
+            ubicacion = bloque.select_one(".text-muted") if bloque else None
             salario = bloque.select_one(".text-success") if bloque else None
             contrato = bloque.select_one(".badge") if bloque else None
-            skills = [s.get_text(strip=True) for s in bloque.select(".badge-secondary")] if bloque else []
-
+            skills = [s.get_text(strip=True) for s in bloque.select("span, .badge, .tag")] if bloque else []
+           
             ofertas.append({
                 "titulo": h.get_text(strip=True),
                 "empresa": empresa.get_text(strip=True) if empresa else None,
-                "ubicacion": ubicacion.get_text(strip=True) if ubicacion else None,
-                "salario": salario.get_text(strip=True) if salario else None,
+                "ubicacion": ubicacion.get_text(" ", strip=True) if ubicacion else None,
+                "salario": salario.get_text(" ", strip=True) if salario else None,
                 "tipo_contrato": contrato.get_text(strip=True) if contrato else None,
-                "skills": ", ".join(skills) if skills else None,
+                "skills": ", ".join(dict.fromkeys(skills)) if skills else None,
                 "busqueda": termino
-            })
+    })
 
         time.sleep(1.5)
     return ofertas
