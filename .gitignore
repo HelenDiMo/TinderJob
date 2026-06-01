@@ -1,7 +1,12 @@
 data/raw/ds_salaries.csv
 data/raw/results.csv
 data/raw/schema.csv
+
 data/raw/debug_page.html
 
 .venv/
 .env
+=======
+venv/
+__pycache__/
+.DS_Store
