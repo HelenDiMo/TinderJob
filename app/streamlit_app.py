@@ -88,8 +88,7 @@ def load_data():
 
 df = load_data()
 
-# --------------------------------------------------
-# VALIDACIÓN
+# -------------------------------------------------- VALIDACIÓN ----------------------
 
 
 required_cols = ["ciudad", "skills", "salario_medio"]
