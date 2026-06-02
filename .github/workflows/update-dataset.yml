@@ -1,0 +1,41 @@
+name: Update dataset jobs
+
+on:
+    schedule:
+        - cron: '0 6 * * *'
+    workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+    update-dataset:
+        runs-on: ubuntu-latest
+        steps: 
+            - name: Checkout repository
+              uses: actions/checkout@v4
+
+            - name: Configurar Python
+              uses: actions/setup-python@v5
+              with:
+                python-version: "3.11"
+
+            - name: Instalar las dependencias
+              run: pip install -r requirements.txt
+
+            - name: Ejecutar Scraper
+              run: python src/scraper/extract_tecnoempleo.py
+            
+            - name: Limpiar dataset
+              run: python src/data_processing/clean_tecnoempleo_data.py
+
+            - name: Commit updated datasets
+              run: |
+                git config user.name "github-actions"
+                git config user.email "github-actions@github.com"
+
+                git add data/raw/tecnoempleo_jobs.csv
+                git add data/processed/clean_tecnoempleo_jobs.csv
+
+                git diff --cached --quiet || git commit -m "chore: auto update tecnoempleo dataset"
+                git push
