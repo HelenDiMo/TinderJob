@@ -104,9 +104,9 @@ def load_data():
 @st.cache_data
 def load_salaries():
     try:
-        df = pd.read_csv("data/ds_salaries.csv")
+        df = pd.read_csv("data/raw/ds_salaries.csv")
     except FileNotFoundError:
-        df = pd.read_csv("../data/ds_salaries.csv")
+        df = pd.read_csv("data/raw/ds_salaries.csv")
     df['salary_in_eur'] = df['salary_in_usd'] * 0.92
     nivel_map = {
         'EN': 'Entry-level (Junior)',
