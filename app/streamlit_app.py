@@ -274,11 +274,23 @@ with col_right:
     )
     st.plotly_chart(fig_salary, use_container_width=True)
 
-# --------------------------------------------------
-# TABLA
+# ------------------------------------------------
+# TABLA DE OFERTAS  
 
 st.markdown("### Datos filtrados")
-st.dataframe(filtered_df, use_container_width=True)
+
+display_df = filtered_df.copy()
+
+st.dataframe(
+    display_df,
+    use_container_width=True,
+    column_config={
+        "url": st.column_config.LinkColumn(
+            "Oferta",
+            display_text="🔗 Ver oferta"
+        )
+    }
+)
 
 st.markdown("---")
 
