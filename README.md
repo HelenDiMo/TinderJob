@@ -64,7 +64,8 @@ TinderJob/
 ├───venv
 ├── .gitignore               
 └── README.md
-```                
+``` 
+---               
 ## 👥 4. Organización del Equipo
 Para garantizar la entrega el 03/06 sin cuellos de botella, el equipo se ha organizado en roles individuales altamente especializados:
 
@@ -76,6 +77,7 @@ Para garantizar la entrega el 03/06 sin cuellos de botella, el equipo se ha orga
 | **Joel Ibarra** | Desarrollador | Data Cleaning & Integration | [@jowel2701](https://github.com/jowel2701) |
 | **Luis El Allali** | Desarrollador | Scraper Engineer | [@luiselallali18-hub](https://github.com/luiselallali18-hub) |
 
+---
 ## 🛠️ 5. Requisitos e Instalación
 
 (Sección en desarrollo a medida que los ingenieros entreguen el código)
@@ -86,8 +88,20 @@ Para ejecutar este proyecto de forma local, clona este repositorio e instala las
 git clone https://github.com/HelenDiMo/TinderJob.git
 cd TinderJob
 ```
----
-# [Aquí añadiremos cómo arrancar el front y el scraper]
+``` bash
+python -m venv .venv
+```
+```bash
+# En Windows:
+.\.venv\Scripts\activate
+```
+```bash
+# En Linux/Mac:
+source .venv/bin/activate
+```
+```bash
+pip install -r requirements.txt
+```
 ---
 ## 6. 🕷️ Extracción, Limpieza y Preparación de Datos
 
@@ -161,6 +175,7 @@ python scraper.py
 
 *Salida del scraper*: `data/raw/tecnoempleo_jobs.csv` (con un archivo de depuración temporal en `data/raw/debug_page.html`).
 
+---
 ## 7. 📓 Notebooks de Análisis
 
 El análisis estadístico completo y la exploración profunda del mercado laboral se encuentran estructurados en 3 notebooks secuenciales dentro de la carpeta `notebooks/`:
@@ -207,6 +222,7 @@ Módulo orientado a responder de manera cuantitativa las preguntas de negocio cl
 
 * **Sesgo de Representación Geográfica**: Contraste con el dataset global *DS Salaries*, donde España representa únicamente el 2.3% del volumen total de registros (14 de 607 ofertas).
 
+---
 ## 8. 📈 Estadísticas del Análisis y Hallazgos Clave
 
 ### A. Resumen del Mercado Español (Portal: Tecnoempleo)
@@ -261,8 +277,47 @@ Para enriquecer la perspectiva de la consultora con un contexto internacional, s
 | Salario mediano (Nivel Senior) | €124.660 / año |
 | Correlación Salario ↔ Remoto | 0.13 (Correlación muy débil) | 
 
-### C. Dashboard y Visualizaciones Clave
+### C. Dashboard y Visualizaciones Clave (Streamlit Dashboard)
 
-*(Inserta aquí las capturas de pantalla de tus 6 gráficos explicativos o el acceso directo a la aplicación interactiva de Streamlit)*
+Ejecutar la aplicación:
+
+```bash
+streamlit run app/streamlit_app.py
+```
 
 Este bloque metodológico y visual permite a los consultores de **DataTalent Solutions S.L.** tomar decisiones de diseño curricular de *reskilling* basadas en evidencias empíricas sólidas, conociendo de antemano las limitaciones y los sesgos del mercado analizado.
+
+#### 🧩 Funcionalidades Principales
+
+La aplicación se divide en dos grandes bloques:
+
+1. 📊 **Módulos de Análisis Estadístico:** Cuatro pestañas dedicadas a la visualización analítica avanzada y la democratización de los hallazgos:
+
+  | Pestaña | Contenido y Enfoque del Análisis |
+  |----- | ----- |
+  |📍 Mercado España | Radiografía de la demanda por perfil IT, ranking del *Top 20 skills* y distribución por modalidad laboral. |
+  |💵 Análisis Salarial | Exploración de bandas salariales con histogramas + curva $KDE$, salarios por nivel de experiencia, diagramas de caja (boxplots), tablas dinámicas y gráficos de dispersión (scatter plots). |
+  | 🎲 Probabilidad Condicional | Cálculo analítico de escenarios condicionales mediante mapas de calor: $P(\text{Salario Alto} \mid \text{Nivel})$, $P(\text{Remoto} \mid \text{Tamaño Empresa})$ y $P(\text{Flexible} \mid \text{Ciudad})$.|
+  | ⚖️ Sesgos | Visualización crítica del impacto del fenómeno MNAR (datos salariales perdidos), sesgo de búsqueda del scraper y subrepresentación geográfica, junto con las recomendaciones estratégicas para DataTalent Solutions S.L. |
+
+2. 🔥 **TinderMatch — Encuentra tu oferta ideal:**
+    * Un motor de recomendación que automatiza el emparejamiento profesional analizando la compatibilidad del candidato con el mercado real:
+      * Entrada de Datos: Permite subir el currículum directamente en formato **PDF** o pegar el texto en bruto en un área de edición.
+      * Extracción de ADN Técnico: El sistema procesa el texto y extrae automáticamente las habilidades del candidato mapeándolas contra un diccionario de **más de 80 tecnologías reconocidas**.
+      * Algoritmo de Matching: Compara el stack del usuario con cada una de las ofertas del dataset de Tecnoempleo.
+      * Resultados Estructurados: Muestra las vacantes ordenadas de mayor a menor porcentaje de compatibilidad, detallando: 
+        * *Skills* que ya posees y hacen match.
+        * *Skills* faltantes (áreas de oportunidad/reskilling).
+        * Enlace directo a la oferta original en el portal de empleo.
+        * **Filtros Avanzados**: Segmentación dinámica por ciudad, modalidad de trabajo (remoto/híbrido) y porcentaje mínimo de match.
+        * **Exportación**: Descarga del listado personalizado de ofertas compatibles en formato CSV.
+  
+  
+  #### 🛠️ Stack Tecnológico de la Aplicación
+  
+  Para asegurar la ligereza y la viabilidad del despliegue (permitiendo que funcione sin dependencias complejas de servidores o APIs de pago), la aplicación utiliza:
+  - `streamlit`: Framework principal para el renderizado de la interfaz de usuario reactiva.
+  - `plotly`: Motor gráfico encargado de generar las visualizaciones e histogramas interactivos.
+  - `pdfplumber`: Librería especializada en la extracción quirúrgica de texto estructurado desde archivos PDF (CVs).
+  
+  - **Algoritmo de Matching Local**: Procesamiento de coincidencia textual de cadenas y análisis de conjuntos (set intersections) de alto rendimiento, ejecutado 100% en local sin necesidad de llamadas a APIs externas.
