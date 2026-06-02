@@ -29,13 +29,20 @@ jobs:
             - name: Limpiar dataset
               run: python src/data_processing/clean_tecnoempleo_data.py
 
-            - name: Commit updated datasets
+            - name: Commit updated datasets to production-data
               run: |
                 git config user.name "github-actions"
                 git config user.email "github-actions@github.com"
 
+                git fetch origin production-data
+                git checkout -B production-data origin/production-data
+
                 git add data/raw/tecnoempleo_jobs.csv
                 git add data/processed/clean_tecnoempleo_jobs.csv
 
-                git diff --cached --quiet || git commit -m "chore: auto update tecnoempleo dataset"
-                git push
+                if git diff --cached --quiet; then
+                  echo "Dataset already up to date"
+                else
+                  git commit -m "chore: auto update tecnoempleo dataset"
+                  git push origin production-data
+                fi  
