@@ -243,7 +243,7 @@ La aplicación se divide en dos grandes bloques:
       * *Extracción de ADN Técnico:* Extracción automática de un diccionario optimizado de **más de 80 tecnologías reconocidas**.
       * *Algoritmo de Matching:* Compara el *stack* del usuario con cada una de las ofertas del dataset de Tecnoempleo.
       * *Resultados Estructurados:* Muestra las vacantes ordenadas de mayor a menor porcentaje de compatibilidad, detallando: 
-        * *Skills que ya posees y hacen match.
+        * *Skills* que ya posees y hacen match.
         * *Skills* faltantes (áreas de oportunidad/reskilling).
         * *Enlace directo* a la oferta original en el portal de empleo.
         * *Filtros Avanzados:* Segmentación dinámica por ciudad, modalidad de trabajo (remoto/híbrido) y porcentaje mínimo de match.
@@ -255,8 +255,8 @@ La aplicación se divide en dos grandes bloques:
   - `streamlit`: Framework principal para el renderizado de la interfaz de usuario reactiva.
   - `plotly`: Motor gráfico encargado de generar las visualizaciones e histogramas interactivos.
   - `pdfplumber`: Librería especializada en la extracción quirúrgica de texto estructurado desde archivos PDF (CVs).
-  
   - **Algoritmo de Matching Local**: Procesamiento de coincidencia textual de cadenas y análisis de conjuntos (set intersections) de alto rendimiento, ejecutado 100% en local sin necesidad de llamadas a APIs externas.
+  - **GitHub Actions**: Automatización de la extracción de los datos de las ofertas de trabajo. 
 
 ## 9. Licencia
 
