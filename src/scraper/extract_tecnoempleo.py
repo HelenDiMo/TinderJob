@@ -92,15 +92,26 @@ def extraer_oferta(card, termino: str, session: requests.Session) -> dict:
             salario = linea
             break
 
-    url = titulo_tag["href"] if titulo_tag and titulo_tag.has_attr("href") else None
+    # El scraper ya extraía la URL del título de cada oferta, pero no la guardaba.
+    # The scraper already extracted the URL from the title tag, but wasn't saving it.
+    # La necesitamos para mostrar el enlace directo a la oferta en el TinderMatch.
+    # We need it to show the direct link to the offer in TinderMatch.
+    url_relativa = titulo_tag["href"] if titulo_tag and titulo_tag.has_attr("href") else None
+
+    # Las URLs de Tecnoempleo son relativas (ej: /oferta/123), así que añadimos el dominio base.
+    # Tecnoempleo URLs are relative (e.g. /oferta/123), so we add the base domain.
+    if url_relativa:
+        url_completa = f"https://www.tecnoempleo.com{url_relativa}" if url_relativa.startswith("/") else url_relativa
+    else:
+        url_completa = None
 
     datos_detalle = {
         "ubicacion": None,
         "tipo_contrato": None
     }
 
-    if url:
-        datos_detalle = extraer_datos_detalle(url, session)
+    if url_completa:
+        datos_detalle = extraer_datos_detalle(url_completa, session)
         time.sleep(0.4)
 
     skills = [
@@ -115,7 +126,12 @@ def extraer_oferta(card, termino: str, session: requests.Session) -> dict:
         "salario": salario,
         "tipo_contrato": datos_detalle["tipo_contrato"],
         "skills": ", ".join(dict.fromkeys(skills)) if skills else None,
-        "busqueda": termino
+        "busqueda": termino,
+        # CAMBIO: añadimos la URL completa de la oferta al diccionario de datos.
+        # CHANGE: we add the full offer URL to the data dictionary.
+        # Antes se extraía pero se descartaba. Ahora se guarda para usarla en el CSV.
+        # Before it was extracted but discarded. Now it's saved to use in the CSV.
+        "url": url_completa
     }
 
 
@@ -191,7 +207,14 @@ def main():
         "salario",
         "tipo_contrato",
         "skills",
-        "busqueda"
+        "busqueda",
+        # CAMBIO: añado "url" a las columnas que se guardan en el CSV.
+        # CHANGE: we add "url" to the columns saved in the CSV.
+        # Esto permite que la app de Streamlit muestre un enlace directo a cada oferta
+        # en el TinderMatch, para que el usuario pueda acceder a ella con un clic.
+        # This allows the Streamlit app to show a direct link to each offer
+        # in TinderMatch, so the user can access it with one click.
+        "url"
     ]
 
     df = df[columnas]
