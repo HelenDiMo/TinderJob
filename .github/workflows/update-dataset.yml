@@ -26,25 +26,6 @@ jobs:
       - name: Instalar las dependencias
         run: pip install -r requirements.txt
 
-<<<<<<< HEAD
-            - name: Commit updated datasets to production-data
-              run: |
-                git config user.name "github-actions"
-                git config user.email "github-actions@github.com"
-
-                git fetch origin production-data
-                git checkout -B production-data origin/production-data
-
-                git add data/raw/tecnoempleo_jobs.csv
-                git add data/processed/clean_tecnoempleo_jobs.csv
-
-                if git diff --cached --quiet; then
-                  echo "Dataset already up to date"
-                else
-                  git commit -m "chore: auto update tecnoempleo dataset"
-                  git push origin production-data
-                fi  
-=======
       - name: Ejecutar Scraper
         run: python src/scraper/extract_tecnoempleo.py
 
@@ -65,4 +46,3 @@ jobs:
             git commit -m "chore: auto update tecnoempleo dataset"
             git push origin production-data
           fi
->>>>>>> main
